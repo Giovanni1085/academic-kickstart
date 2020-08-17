@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Giovanni Colavizza
 
 # Username (this should match the folder name)
 authors:
@@ -10,31 +10,35 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Digital Humanities
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Amsterdam
+  url: "https://www.uva.nl/en/profile/c/o/g.colavizza/g.colavizza.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: ""
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computational arts and humanities
+- Information science
+- Machine learning
+- Science studies
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Management of Technology
+    institution: EPFL
+    year: 2018
+  - course: MA in History and Information Science
+    institution: Ca'Foscari University of Venice
+    year: 2014
+  - course: BA in History
+    institution: University of Milan
+    year: 2011
+  - course: BSc in Computer Science
+    institution: University of Udine
     year: 2008
 
 # Social/Academic Networking
@@ -44,16 +48,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:g.colavizza@uva.nl".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/giovanni1085
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=LQEgr6UAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Giovanni1085
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,7 +73,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am an assistant professor at the **University of Amsterdam**.
