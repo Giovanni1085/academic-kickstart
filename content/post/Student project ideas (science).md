@@ -16,8 +16,6 @@ header:
   image: ""
 ---
 
-# Student project ideas (science)
-
 Dear student, if you are enrolled at the University of Amsterdam or Amsterdam University College, and you would like to do a project/thesis/capstone with me, these are a few topics I or members of my team are interested into. If you like one of them, or you would like to propose something else, please get in touch: <g.colavizza@uva.nl>. 
 
 ## AI for cultural heritage

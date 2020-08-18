@@ -16,8 +16,6 @@ header:
   image: ""
 ---
 
-# Academic year 2020-2021
-
 During this academic year, I teach the following courses (in chronological order):
 
 * Introduction to digital humanities (BA)
