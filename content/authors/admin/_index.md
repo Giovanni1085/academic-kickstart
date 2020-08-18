@@ -20,38 +20,41 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: ""
 
-interests:
-- Computational arts and humanities
-- Information science
-- Machine learning
-- Science studies
+#interests:
+#- Computational arts and humanities
+#- Information science
+#- Machine learning
+#- Science studies
 
-education:
-  courses:
-  - course: PhD in Management of Technology
-    institution: EPFL
-    year: 2018
-  - course: MA in History and Information Science
-    institution: Ca'Foscari University of Venice
-    year: 2014
-  - course: BA in History
-    institution: University of Milan
-    year: 2011
-  - course: BSc in Computer Science
-    institution: University of Udine
-    year: 2008
+#education:
+#  courses:
+#  - course: PhD in Management of Technology
+#    institution: EPFL
+#    year: 2018
+#  - course: MA in History and Information Science
+#    institution: Ca'Foscari University of Venice
+#    year: 2014
+#  - course: BA in History
+#    institution: University of Milan
+#    year: 2011
+#  - course: BSc in Computer Science
+#    institution: University of Udine
+#    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: '#contact'  # For a direct email link, use "mailto:g.colavizza@uva.nl".
+- icon: envelope
+  icon_pack: fas
+  link: mailto:g.colavizza@uva.nl  # For a direct email link, use "mailto:g.colavizza@uva.nl".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/giovanni1085
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/giovanni-colavizza-850b3342
 - icon: github
   icon_pack: fab
   link: https://github.com/Giovanni1085
@@ -78,4 +81,6 @@ user_groups:
 ---
 *WORK IN PROGRESS* 
 
-I am an assistant professor at the **University of Amsterdam**.
+I am an assistant professor at the **University of Amsterdam**. I use **data to study cultural and social phenomena**.
+
+
