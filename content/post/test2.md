@@ -1,5 +1,5 @@
 ---
-title: An example research post
+title: An example teaching post
 summary: Here we describe how to add a page to your site.
 date: "2020-08-18T00:00:00Z"
 
@@ -8,7 +8,7 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 
-categories: ["research"]
+categories: ["teaching"]
 
 # Optional header image (relative to `static/img/` folder).
 header:
