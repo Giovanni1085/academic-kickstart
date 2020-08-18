@@ -78,8 +78,20 @@ email: ""
 user_groups:
 - Principal Investigators
 ---
+
 *WORK IN PROGRESS* 
 
-I am an assistant professor at the **University of Amsterdam**. I use **data to study cultural and social phenomena**.
+I am an assistant professor at the **University of Amsterdam**, visiting researcher at [The Alan Turing Institute](https://www.turing.ac.uk) (London, UK) and at the [Centre for Science and Technology Studies](https://www.cwts.nl) (CWTS), Leiden University (NL). 
+
+My work focuses on **using data to study cultural and social phenomena**, including the human past, art markets, science communication and Wikipedia. I am passionate about **open and free access to knowledge**, for all people and machines.
+
+## Recent news
+
+* *July 2020* **grant** NWO Idea Generator grant on the project *[Improving the accessibility of textual historical collections via transfer learning](https://www.uva.nl/en/content/news/news/2020/07/eight-uva-researchers-test-innovative-ideas-using-idea-generator-funding.html)*. A collaboration with the National Library of the Netherlands.
+* *July 2020* **article** *[COVID-19 research in Wikipedia](https://www.mitpressjournals.org/doi/abs/10.1162/qss_a_00080)* (Quantitative Science Studies).
+* *July 2020* **article** *[Quantifying the higher-order influence of scientific publications](https://link.springer.com/article/10.1007/s11192-020-03580-9)* (Scientometrics, with Massimo Franceschet).
+* *May 2020* **grant** NWO Corona fast-track data on the project *[Collecting systematic survey data on scientists’ information-seeking and information- spreading behaviour in a time of crisis](https://covid19.humanities.uva.nl)*.
+* *April 2020* **article** *Quantifying Engagement with Citations on Wikipedia* (WWW2020, with Tiziano Piccardi, Miriam Redi and Bob. West).
+* *January 2020* **grant** Researcher in residence at the National Library of the Netherlands on the project *[Is your OCR good enough? A comprehensive assessment of the impact of OCR quality on downstream tasks](https://www.kb.nl/nieuws/2020/giovanni-colavizza-en-seyran-khademi-zijn-de-researchers-in-residence-van-2020)*.
 
 
