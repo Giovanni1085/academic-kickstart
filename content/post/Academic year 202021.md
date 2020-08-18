@@ -1,6 +1,6 @@
 ---
-title: Academic year 2020-2021
-summary: My teaching during the academic year 2020-2021.
+title: Academic year 2020 2021
+summary: My teaching during the academic year 2020 2021.
 date: "2020-08-19T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
