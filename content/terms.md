@@ -12,4 +12,4 @@ header:
   image: ""
 ---
 
-2020. All rights reserved.
+Giovanni Colavizza. All rights reserved.
