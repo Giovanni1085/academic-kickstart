@@ -89,7 +89,7 @@ My work focuses on **using data to study cultural and social phenomena**, includ
 * **Article**: *[COVID-19 research in Wikipedia](https://www.mitpressjournals.org/doi/abs/10.1162/qss_a_00080)* (Quantitative Science Studies).
 * **Article**: *[Quantifying the higher-order influence of scientific publications](https://link.springer.com/article/10.1007/s11192-020-03580-9)* (Scientometrics, with Massimo Franceschet).
 * **Grant**: NWO Corona fast-track data on the project *[Collecting systematic survey data on scientists’ information-seeking and information- spreading behaviour in a time of crisis](https://covid19.humanities.uva.nl)*.
-* **Article**: *[Quantifying Engagement with Citations on Wikipedia](https://dl.acm.org/doi/10.1145/3366423.3380300)* (WWW2020, with Tiziano Piccardi, Miriam Redi and Bob West).
-* During 2020, I am a researcher in residence at the National Library of the Netherlands on the project *[Is your OCR good enough? A comprehensive assessment of the impact of OCR quality on downstream tasks](https://www.kb.nl/nieuws/2020/giovanni-colavizza-en-seyran-khademi-zijn-de-researchers-in-residence-van-2020)*.
+* **Article**: *[Quantifying engagement with citations on Wikipedia](https://dl.acm.org/doi/10.1145/3366423.3380300)* (WWW2020, with Tiziano Piccardi, Miriam Redi and Bob West).
+* In 2020 I will be a *researcher in residence at the National Library of the Netherlands* on the project *[Is your OCR good enough? A comprehensive assessment of the impact of OCR quality on downstream tasks](https://www.kb.nl/nieuws/2020/giovanni-colavizza-en-seyran-khademi-zijn-de-researchers-in-residence-van-2020)*.
 
 
