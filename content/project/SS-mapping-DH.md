@@ -14,6 +14,9 @@ tags: ["SS"] # CAH, AICH, SS, *
 header:
   caption: "Wikipedia logo"
   image: "wikipedia.png"
+  placement: 1
+  focal_point: "Smart"
+  preview_only: true
 ---
 
 *ADD SHORT BRIEF*
