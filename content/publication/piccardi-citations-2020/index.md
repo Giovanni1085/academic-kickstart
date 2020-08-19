@@ -38,7 +38,7 @@ projects: ["SS-public-understanding-science"]
 
 # Links (optional).
 url_pdf: https://dl.acm.org/doi/abs/10.1145/3366423.3380300
-#url_preprint: https://www.insticc.org/node/TechnicalProgram/icaart/2020/presentationDetails/91690
+url_preprint: https://arxiv.org/abs/2001.08614
 #url_code = ""
 #url_dataset = ""
 #url_project = ""
