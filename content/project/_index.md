@@ -6,7 +6,7 @@ title: Projects
 #   2 = Compact
 #   3 = Card
 #   5 = Showcase
-view = 3
+view: 3
 
 # Optional header image (relative to `static/img/` folder).
 header:
