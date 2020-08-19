@@ -1,5 +1,5 @@
 ---
-title: Mapping Digital Humanities
+title: Mapping digital humanities research
 summary: An effort to build a map of digital humanities research, and understand its ties within and outside the humanities.
 date: "2020-08-19T00:00:00Z"
 
