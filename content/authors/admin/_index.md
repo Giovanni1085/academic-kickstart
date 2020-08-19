@@ -81,7 +81,7 @@ user_groups:
 
 I am an assistant professor at the **University of Amsterdam**, a visiting researcher at [The Alan Turing Institute](https://www.turing.ac.uk) (UK) and at the [Centre for Science and Technology Studies](https://www.cwts.nl) (CWTS), Leiden University (NL). 
 
-My work focuses on **using data to study cultural and social phenomena**, including the human past, art markets, science communication and Wikipedia. I support the **open and free access to knowledge**, for both people and machines.
+My work focuses on **using data to study cultural and social phenomena**, including the human past, art markets, science communication and Wikipedia. I support the **open and free access to knowledge**, for people and machines alike.
 
 ## Recent news
 *Last update: August 2020.*
