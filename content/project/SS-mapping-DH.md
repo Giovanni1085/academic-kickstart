@@ -13,6 +13,7 @@ tags: ["Science Studies"] # CAH, AICH, SS, *
 # Optional header image (relative to `static/img/` folder).
 header:
   image: "avatar.jpg"
+  preview_only: true
 ---
 
 *ADD SHORT BRIEF*
