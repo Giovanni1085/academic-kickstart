@@ -14,8 +14,6 @@ tags: ["Science Studies"] # CAH, AICH, SS, *
 header:
   caption: "Wikipedia logo"
   image: "wikipedia.png"
-  placement: 1
-  focal_point: "Smart"
   preview_only: false
 ---
 
