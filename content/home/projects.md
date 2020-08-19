@@ -22,20 +22,20 @@ subtitle = ""
   filter_default = 0
   
   [[content.filter_button]]
-    name = "All"
-    tag = "*"
-  
-  [[content.filter_button]]
     name = "Computational A&H"
-    tag = "CAH"
+    tag = "Computational A&H"
   
   [[content.filter_button]]
     name = "AI for Cultural Heritage"
-    tag = "AICH"
+    tag = "AI for Cultural Heritage"
 
   [[content.filter_button]]
     name = "Science Studies"
-    tag = "SS"
+    tag = "Science Studies"
+
+  [[content.filter_button]]
+    name = "All"
+    tag = "*"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -46,10 +46,10 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 5
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
+  flip_alt_rows = true
 
 [design.background]
   # Apply a background color, gradient, or image.

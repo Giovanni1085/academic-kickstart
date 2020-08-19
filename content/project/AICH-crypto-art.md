@@ -8,7 +8,7 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 
-tags: ["AICH"] # CAH, AICH, SS, *
+tags: ["AI for Cultural Heritage"] # CAH, AICH, SS, *
 
 # Optional header image (relative to `static/img/` folder).
 header:
