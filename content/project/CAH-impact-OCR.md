@@ -8,7 +8,7 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 
-tags: ["Computational A&H"] # CAH, AICH, SS, *
+tags: ["Computational AH"] # CAH, AICH, SS, *
 
 # Optional header image (relative to `static/img/` folder).
 header:

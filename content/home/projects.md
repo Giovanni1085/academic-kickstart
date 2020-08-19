@@ -27,7 +27,7 @@ subtitle = ""
 
   [[content.filter_button]]
     name = "Computational A&H"
-    tag = "Computational A&H"
+    tag = "Computational AH"
   
   [[content.filter_button]]
     name = "AI for Cultural Heritage"

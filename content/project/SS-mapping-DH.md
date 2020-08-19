@@ -16,7 +16,7 @@ header:
   image: "wikipedia.png"
   placement: 1
   focal_point: "Smart"
-  preview_only: true
+  preview_only: false
 ---
 
 *ADD SHORT BRIEF*
