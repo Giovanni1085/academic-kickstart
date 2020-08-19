@@ -15,4 +15,6 @@ image:
   preview_only: true
 ---
 
-*ADD SHORT BRIEF*
+The digital humanities are a wide and multifaceted community with many research interests. To date, **a map of digital humanities research** does not exist: in this project, we seek to create one. We are working with publication data from several data sources (**Crossref, Web of Science, Scopus, Dimensions, MS Academic, OpenCitations**) in order to map digital humanities contributions and understand their relationship with other research areas within and outside the humanities.
+
+This project is a collaboration with [Silvio Peroni](https://www.unibo.it/sitoweb/silvio.peroni/en).

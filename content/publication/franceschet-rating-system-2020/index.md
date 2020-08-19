@@ -1,5 +1,5 @@
 ---
-title: A rating system for art markets on the blockchain
+title: A Rating System for Art Markets on the Blockchain
 
 # Date first published.
 date: 2020-04-01
