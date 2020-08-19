@@ -26,7 +26,7 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "Computational A&H"
+    name = "Computational Arts & Humanities"
     tag = "Computational AH"
   
   [[content.filter_button]]
@@ -46,10 +46,10 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 5
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
+  flip_alt_rows = true
 
 [design.background]
   # Apply a background color, gradient, or image.

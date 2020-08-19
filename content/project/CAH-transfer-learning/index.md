@@ -1,6 +1,6 @@
 ---
-title: Impact of OCR quality
-summary: What is the impact of OCR quality on downstream NLP tasks?
+title: Transfer learning for historical collections
+summary: Where and how to use transfer learning for historical collections?
 date: "2020-08-19T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
@@ -11,9 +11,8 @@ comments: false  # Show comments?
 tags: ["AI for Cultural Heritage"] # CAH, AICH, SS, *
 
 # Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
-  image: ""
+image:
+  preview_only: true
 ---
 
 *ADD SHORT BRIEF*

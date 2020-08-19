@@ -1,6 +1,6 @@
 ---
-title: Crypto art
-summary: An open-ended investigation into the economics of crypto art.
+title: Historical epidemics
+summary: A data-driven study of the unfolding and impact of historical epidemic outbreaks, with a focus of early modern Venice.
 date: "2020-08-19T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
@@ -11,9 +11,8 @@ comments: false  # Show comments?
 tags: ["Computational AH"] # CAH, AICH, SS, *
 
 # Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
-  image: ""
+image:
+  preview_only: true
 ---
 
 *ADD SHORT BRIEF*
