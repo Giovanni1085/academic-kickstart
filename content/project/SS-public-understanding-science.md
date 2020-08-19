@@ -12,11 +12,8 @@ tags: ["Science Studies"] # CAH, AICH, SS, *
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: "Wikipedia logo"
   image: "wikipedia.png"
-  placement: 1
   focal_point: "Smart"
-  preview_only: true
 ---
 
 *ADD SHORT BRIEF*
