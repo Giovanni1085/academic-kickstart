@@ -12,7 +12,7 @@ tags: ["Science Studies"] # CAH, AICH, SS, *
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  image: "wikipedia.png"
+  image: "wikipedia.jpg"
   focal_point: "Smart"
 ---
 
