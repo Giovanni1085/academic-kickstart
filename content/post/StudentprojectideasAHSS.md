@@ -22,19 +22,19 @@ Dear student, if you are enrolled at the University of Amsterdam or Amsterdam Un
 
 Crypto art is born-digital art tokenized and exchanged on blockchains, typically Ethereum. Crypto art is currently growing very rapidly, and is at the forefront of experimentation on many art-related questions. Many project ideas can focus on crypto art, from stuyding the background of artists and their artistic production to an ethnographic study of this community.
 
-To know more: Franceschet et al. *[Crypto art: A decentralized view](https://arxiv.org/abs/1906.03263)*, 2019.
+To know more: Franceschet et al., *[Crypto art: A decentralized view](https://arxiv.org/abs/1906.03263)*, 2019.
 
 ## Pricing fine art
 
 The pricing of fine art on the primary market (first sale) is complex and difficult to study. Galleries are rarely keen to share their data, and other venues such as art fairs are increasingly important in this respect. Work can focus on assessing the way galleries in Amsterdam are pricing art, their use of online sales and art fairs.
 
-To know more: Velthuis *Talking Prices: Symbolic Meanings of Prices on the Market for Contemporary Art*, 2007.
+To know more: Velthuis, *Talking Prices: Symbolic Meanings of Prices on the Market for Contemporary Art*, 2007.
 
 ## Iconography and iconology
 
 Following Panofsky, we can distinguish between conventional art subject matter, or iconography (the symbolic and cultural interpretation of contents) and its intrinsic meaning, or iconology (the situated and historical interpretation of contents and symbols). Can iconographical and iconological knowledge be make explicit for machines to "learn"?
 
-To know more: Panofsky *Studies in Iconology: Humanistic Themes in the Art of the Renaissance*, 1939.
+To know more: Panofsky, *Studies in Iconology: Humanistic Themes in the Art of the Renaissance*, 1939.
 
 ## Using digital heritage collections
 
@@ -48,7 +48,7 @@ AI technology (machine learning) has widely been adopted by heritage organizatio
 
 Blockchain technologies are growing rapidly, well beyond their initial buzz. Time is ripe to assess the current state of adoption of blockchain tech in the creative industries and for social good.
 
-To know more: Withaker *[A Primer, History, and Taxonomy of Blockchain Use Cases in the Arts](https://artivate.org/artivate/article/view/94)*, 2019.
+To know more: Withaker, *[A Primer, History, and Taxonomy of Blockchain Use Cases in the Arts](https://artivate.org/artivate/article/view/94)*, 2019.
 
 
 

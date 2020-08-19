@@ -18,13 +18,13 @@ header:
 
 During this academic year, I teach the following courses (in chronological order):
 
-* **Introduction to digital humanities** (BA)
+* **Introduction to digital humanities** (BA, with Rens Bod)
 
-*The Digital Humanities are increasingly relevant for scholars in all Humanities disciplines. The rapidly rising digital availability of content, as well as the broader digitization of society, offer new exciting opportunities to humanists. This course serves as an introduction to the Digital Humanities (DH) as a research area and community.* With Rens Bod.
+*The Digital Humanities are increasingly relevant for scholars in all Humanities disciplines. The rapidly rising digital availability of content, as well as the broader digitization of society, offer new exciting opportunities to humanists. This course serves as an introduction to the Digital Humanities (DH) as a research area and community.*
 
-* **AI for society** (BSc)
+* **AI for society** (BSc, with Tobias Blanke)
 
-*AI is rapidly becoming part of our daily lives in many visible and invisible ways. Consequently, the social sciences and humanities are increasingly contributing to dominant research problems in AI. Examples include the ethical profiling of AI systems, including their privacy and governance, questions of fairness and accountability, as well as data bias and model interpretability. This course provides an opportunity to engage with these increasingly mainstream research questions. It does so by proposing a pathway into the main critical themes emerging when AI is applied in real-world scenarios, and it does so by highlighting the bi-directional contributions of the social sciences and humanities.* With Tobias Blanke.
+*AI is rapidly becoming part of our daily lives in many visible and invisible ways. Consequently, the social sciences and humanities are increasingly contributing to dominant research problems in AI. Examples include the ethical profiling of AI systems, including their privacy and governance, questions of fairness and accountability, as well as data bias and model interpretability. This course provides an opportunity to engage with these increasingly mainstream research questions. It does so by proposing a pathway into the main critical themes emerging when AI is applied in real-world scenarios, and it does so by highlighting the bi-directional contributions of the social sciences and humanities.*
 
 * **Text mining** (BSc)
 
