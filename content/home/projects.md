@@ -22,6 +22,10 @@ subtitle = ""
   filter_default = 0
   
   [[content.filter_button]]
+    name = "All"
+    tag = "*"
+    
+  [[content.filter_button]]
     name = "Computational A&H"
     tag = "Computational A&H"
   
@@ -32,10 +36,6 @@ subtitle = ""
   [[content.filter_button]]
     name = "Science Studies"
     tag = "Science Studies"
-
-  [[content.filter_button]]
-    name = "All"
-    tag = "*"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
