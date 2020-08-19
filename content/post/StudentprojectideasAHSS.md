@@ -16,7 +16,7 @@ header:
   image: ""
 ---
 
-Dear student, if you are enrolled at the University of Amsterdam or Amsterdam University College, and you would like to do a project/thesis/capstone with me, these are a few topics I or members of my team are interested into. If you like one of them, or you would like to propose something else, please get in touch: <g.colavizza@uva.nl>. 
+Dear student, if you are enrolled at the University of Amsterdam or the Amsterdam University College, and you would like to do a project/thesis/capstone with me, these are a few topics I or members of my team are interested into. If you like one of them, or you would like to propose something else, please get in touch: <g.colavizza@uva.nl>. 
 
 ## Crypto art
 
@@ -32,7 +32,7 @@ To know more: Velthuis, *Talking Prices: Symbolic Meanings of Prices on the Mark
 
 ## Iconography and iconology
 
-Following Panofsky, we can distinguish between conventional art subject matter, or iconography (the symbolic and cultural interpretation of contents) and its intrinsic meaning, or iconology (the situated and historical interpretation of contents and symbols). Can iconographical and iconological knowledge be make explicit for machines to "learn"?
+Following Panofsky, we can distinguish between conventional art subject matter, or iconography (the symbolic and cultural interpretation of contents) and its intrinsic meaning, or iconology (the situated and historical interpretation of contents and symbols). Can iconographical and iconological knowledge be make explicit for machines to 'learn'?
 
 To know more: Panofsky, *Studies in Iconology: Humanistic Themes in the Art of the Renaissance*, 1939.
 

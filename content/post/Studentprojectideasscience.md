@@ -16,17 +16,21 @@ header:
   image: ""
 ---
 
-Dear student, if you are enrolled at the University of Amsterdam or Amsterdam University College, and you would like to do a project/thesis/capstone with me, these are a few topics I or members of my team are interested into. If you like one of them, or you would like to propose something else, please get in touch: <g.colavizza@uva.nl>. 
+Dear student, if you are enrolled at the University of Amsterdam or the Amsterdam University College, and you would like to do a project/thesis/capstone with me, these are a few topics I or members of my team are interested into. If you like one of them, or you would like to propose something else, please get in touch: <g.colavizza@uva.nl>. 
 
 ## AI for cultural heritage
 
-Human-AI interaction (hybrid AI)
+There are a variety of topics under this general theme which are of interest, as heritage collections have been widely digitized over recent years. Themes include the use of **active learning** to annotate and retrieve information (this is related to human-AI interaction or hybrid AI), the use of **transfer learning** (for example language models of virual features), the **automated enrichment of collections** via information extraction (for example, named entity recognition and linking).
 
-Transfer learning for historical collections
+Several of these topics are developed within the context of the [Creative Amsterdam initiative](https://www.create.humanities.uva.nl/ai-for-cultural-heritage/) (CREATE) at UvA, and in collaboration with many Dutch heritage organizations. 
 
+To know more: Fiorucci et al., *[Machine Learning for Cultural Heritage: A Survey](https://www.sciencedirect.com/science/article/pii/S0167865520300532)*, 2020. 
 
 ## Computational art history
 
+The availability of digitized (or born-digital) art collections allows scholars to **use modern machine learning techniques to study artistic influences, styles and visual patterns recurring over time**. 
+
+To know more: Shen et al., *[Discovering Visual Patterns in Art Collections with Spatially-consistent Feature Learning](https://arxiv.org/abs/1903.02678)*, 2019.
 
 ## Crypto art market prediction
 
