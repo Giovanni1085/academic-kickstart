@@ -11,7 +11,7 @@ comments: false  # Show comments?
 tags: ["Science Studies"] # CAH, AICH, SS, *
 
 # Optional header image (relative to `static/img/` folder).
-header:
+image:
   image: "wikipedia.png"
   preview_only: true
 ---
