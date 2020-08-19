@@ -1,4 +1,4 @@
-+++
+---
 title = "A publication title, such as title of a paper"
 
 # Date first published.
@@ -64,7 +64,6 @@ highlight = true
 [header]
 image = "headers/bubbles-wide.jpg"
 caption = "My caption 😄"
-
-+++
+---
 
 Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page.

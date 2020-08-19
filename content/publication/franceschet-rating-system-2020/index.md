@@ -1,11 +1,11 @@
 ---
-title: A publication title, such as title of a paper
+title: A rating system for art markets on the blockchain
 
 # Date first published.
-date: "2020-04"
+date: 2020-04-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors: ["First author's name", "Second author's name"]
+authors: ["Massimo Franceschet", "Giovanni Colavizza"]
 
 # Publication type.
 # Legend:

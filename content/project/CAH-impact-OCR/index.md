@@ -15,4 +15,6 @@ image:
   preview_only: true
 ---
 
-*ADD SHORT BRIEF*
+Textual historical collections have undergone large-scale digitization campaigns making a wealth of data available for researchers. Most of these textx have been extracted using automated means, via **Handwritten or Optical Character Recognition (H/OCR)**. Such extraction is notoriously error-prone and thus has a largely unknown impact on the downstream uses of these texts, for example for text analysis. This project aims to systematically assess such impact and establish empirical guidelines to answer the following practical question: **when is the OCR quality good enough?**
+
+This project benefits from the support and collaboration of the National Library of the Netherlands, in particular via the [KB Lab](https://lab.kb.nl).
