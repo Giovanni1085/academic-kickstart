@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Research
 
 # Toggle between the various page layout types.
 #   1 = List
