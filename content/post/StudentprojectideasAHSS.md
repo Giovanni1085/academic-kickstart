@@ -16,7 +16,7 @@ header:
   image: ""
 ---
 
-Dear student, if you are enrolled at the University of Amsterdam or the Amsterdam University College, and you would like to do a project/thesis/capstone with me, these are a few topics I or members of my team are interested into. If you like one of them, or you would like to propose something else, please get in touch: <g.colavizza@uva.nl>. 
+Dear student, if you are enrolled at the University of Amsterdam or the Amsterdam University College, and you would like to do a project/thesis/capstone with me, these are a few topics I or members of my team are interested into. If you like one of them, or you would like to propose something else, get in touch: <g.colavizza@uva.nl> (please include program, year and grades). 
 
 ## Crypto art
 
@@ -36,7 +36,7 @@ Following Panofsky, we can distinguish between conventional art subject matter, 
 
 To know more: Panofsky, *Studies in Iconology: Humanistic Themes in the Art of the Renaissance*, 1939.
 
-## Using digital heritage collections
+## Monitoring the use of digital heritage collections
 
 Most if not all heritage organizations have digitized part of their collections and made them available online. Examples of services include the [National Library Delpher](https://www.delpher.nl) and the [Rijksmuseum data portal](https://www.rijksmuseum.nl/en/data). How are users using these services? Can they be improved in any way?
 

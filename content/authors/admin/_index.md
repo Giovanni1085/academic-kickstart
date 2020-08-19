@@ -83,6 +83,8 @@ I am an assistant professor at the **University of Amsterdam**, a visiting resea
 
 My work focuses on **using data to study cultural and social phenomena**, including the human past, art markets, science communication and Wikipedia. I support the **open and free access to knowledge**, for both people and machines.
 
+*Last update: August 2020.*
+
 ## Recent news
 
 * **Grant**: NWO Idea Generator on the project *[Improving the accessibility of textual historical collections via transfer learning](https://www.uva.nl/en/content/news/news/2020/07/eight-uva-researchers-test-innovative-ideas-using-idea-generator-funding.html)*, with the National Library of the Netherlands.

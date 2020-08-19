@@ -1,6 +1,6 @@
 ---
 title: Impact of OCR quality
-summary: What is the impact of OCR quality on downstream NLP tasks?
+summary: What is the impact of content extraction (e.g., via Optical Character Recognition or OCR) on downstream Natural Language Processing (NLP) tasks and text analyses?
 date: "2020-08-19T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
