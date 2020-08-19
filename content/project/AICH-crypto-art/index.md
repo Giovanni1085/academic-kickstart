@@ -1,6 +1,6 @@
 ---
 title: Crypto art
-summary: An open-ended investigation into the culture and economics of crypto artç born-digital art tokenized and exchanged on blockchains.
+summary: "An open-ended investigation into the culture and economics of crypto art: born-digital art tokenized and exchanged on blockchains."
 date: "2020-08-19T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?

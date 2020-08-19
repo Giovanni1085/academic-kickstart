@@ -44,7 +44,7 @@ How scientists use natural language to communicate? How does their use differs a
 
 To know more: Ramage et al., *[Mapping Three Decades of Intellectual Change in Academia](https://arxiv.org/abs/2004.01291)*, 2020.
 
-## Public understanding of science (case study on COVID-19))
+## Public understanding of science (case study on COVID-19)
 
 Scientific results are increasingly communicated and debated publicly, they are mediatized. This happens via **traditional media** (e.g., newspapers), **online media** (e.g., Wikipedia), **social media** (e.g., Twitter). Understanding how these debates happen and how scientific results are framed (and by whom) is very important to **clarify how science is perceived and understood**. Projects here can combine several data sources to further our understanding of this topic.
 
