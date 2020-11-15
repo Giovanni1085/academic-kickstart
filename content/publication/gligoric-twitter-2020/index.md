@@ -22,7 +22,7 @@ publication_types: ["3"]
 publication: arXiv
 
 # Abstract and optional shortened version.
-abstract: "Timely access to accurate information is crucial during the COVID-19 pandemic. Prompted by key stakeholders' cautioning against an "infodemic", we study information sharing on Twitter from January through May 2020. We observe an overall surge in the volume of general as well as COVID-19-related tweets around peak lockdown in March/April 2020. With respect to engagement (retweets and likes), accounts related to healthcare, science, government and politics received by far the largest boosts, whereas accounts related to religion and sports saw a relative decrease in engagement. While the threat of an "infodemic" remains, our results show that social media also provide a platform for experts and public authorities to be widely heard during a global crisis."
+abstract: "Timely access to accurate information is crucial during the COVID-19 pandemic. Prompted by key stakeholders' cautioning against an 'infodemic', we study information sharing on Twitter from January through May 2020. We observe an overall surge in the volume of general as well as COVID-19-related tweets around peak lockdown in March/April 2020. With respect to engagement (retweets and likes), accounts related to healthcare, science, government and politics received by far the largest boosts, whereas accounts related to religion and sports saw a relative decrease in engagement. While the threat of an 'infodemic' remains, our results show that social media also provide a platform for experts and public authorities to be widely heard during a global crisis."
 
 # Featured image thumbnail (optional)
 #image_preview = ""
