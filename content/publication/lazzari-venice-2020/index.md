@@ -37,7 +37,7 @@ featured: true
 projects: ["AICH-historical-epidemics"]
 
 # Links (optional).
-url_pdf = https://www.nature.com/articles/s41598-020-74775-6
+url_pdf: https://www.nature.com/articles/s41598-020-74775-6
 url_preprint: https://www.medrxiv.org/content/10.1101/2020.03.11.20034116v1
 #url_code = ""
 #url_dataset = ""
