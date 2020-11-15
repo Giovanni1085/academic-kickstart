@@ -1,8 +1,8 @@
 ---
-title: "Death in Venice: A Digital Reconstruction of a Large Plague Outbreak During 1630-1631"
+title: "A Digital Reconstruction of a Large Plague Outbreak During 1630-1631"
 
 # Date first published.
-date: 2020-03-01
+date: 2020-10-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors: ["Gianrocco Lazzari", "Giovanni Colavizza", "Fabio Bortoluzzi", "Davide Drago", "Andrea Erboso", "Francesca Zugno", "Frédéric Kaplan", "Marcel Salathé"]
@@ -16,10 +16,10 @@ authors: ["Gianrocco Lazzari", "Giovanni Colavizza", "Fabio Bortoluzzi", "Davide
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated version.
-publication: medRxiv
+publication: Scientific Reports
 
 # Abstract and optional shortened version.
 abstract: "The plague, an infectious disease caused by the bacterium Yersinia pestis, is widely considered to be responsible for the most devastating and deadly pandemics in human history. Starting with the infamous Black Death, plague outbreaks are estimated to have killed around 100 million people over multiple centuries, with local mortality rates as high as 60%. However, detailed pictures of the disease dynamics of these outbreaks centuries ago remain scarce, mainly due to the lack of high-quality historical data in digital form. Here, we present an analysis of the 1630-31 plague outbreak in the city of Venice, using newly collected daily death records. We identify the presence of a two-peak pattern, for which we present two possible explanations based on computational models of disease dynamics. Systematically digitized historical records like the ones presented here promise to enrich our understanding of historical phenomena of enduring importance. This work contributes to the recently renewed interdisciplinary foray into the epidemiological andsocietal impact of pre-modern epidemics."
@@ -37,7 +37,7 @@ featured: true
 projects: ["AICH-historical-epidemics"]
 
 # Links (optional).
-#url_pdf = "pdf/my-paper-name.pdf"
+url_pdf = https://www.nature.com/articles/s41598-020-74775-6
 url_preprint: https://www.medrxiv.org/content/10.1101/2020.03.11.20034116v1
 #url_code = ""
 #url_dataset = ""

@@ -84,12 +84,11 @@ I am an assistant professor at the **University of Amsterdam**, a visiting resea
 My work focuses on **using data to study cultural and social phenomena**, including the human past, art markets, science communication and Wikipedia. I support the **open and free access to knowledge**, for people and machines alike.
 
 ## Recent news
-*Last update: August 2020.*
+*Last update: November 2020.*
 
-* **Grant**: NWO Idea Generator on the project *[Improving the accessibility of textual historical collections via transfer learning](https://www.uva.nl/en/content/news/news/2020/07/eight-uva-researchers-test-innovative-ideas-using-idea-generator-funding.html)*, with the National Library of the Netherlands.
-* **Article**: *[COVID-19 research in Wikipedia](https://www.mitpressjournals.org/doi/abs/10.1162/qss_a_00080)*, *Quantitative Science Studies*.
-* **Article**: *[Quantifying the higher-order influence of scientific publications](https://link.springer.com/article/10.1007/s11192-020-03580-9)*, *Scientometrics*.
-* **Grant**: NWO Corona fast-track data on the project *[Collecting systematic survey data on scientists’ information-seeking and information- spreading behaviour in a time of crisis](https://covid19.humanities.uva.nl)*.
+* **Conference paper**: *[Transfer Learning for Historical Corpora: An Assessment on Post-OCR Correction and Named Entity Recognition](http://ceur-ws.org/Vol-2723/long32.pdf)*, *Computational Humanities Research*.
+* **Article**: *[A digital reconstruction of the 1630–1631 large plague outbreak in Venice](https://www.nature.com/articles/s41598-020-74775-6)*, *Scientific Reports*.
+* **Pre-print**: *[Experts and authorities receive disproportionate attention on Twitter during the COVID-19 crisis](https://arxiv.org/pdf/2008.08364)*, *arXiv*.
 * In 2020 I will be a **researcher in residence at the National Library of the Netherlands** on the project *[Is your OCR good enough? A comprehensive assessment of the impact of OCR quality on downstream tasks](https://www.kb.nl/nieuws/2020/giovanni-colavizza-en-seyran-khademi-zijn-de-researchers-in-residence-van-2020)*.
 
 

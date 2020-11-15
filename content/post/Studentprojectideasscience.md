@@ -18,6 +18,10 @@ header:
 
 Dear student, if you are enrolled at the University of Amsterdam or the Amsterdam University College, and you would like to do a project/thesis/capstone with me, these are a few topics I or members of my team are interested into. If you like one of them, or you would like to propose something else, get in touch: <g.colavizza@uva.nl> (please include program, year and grades). 
 
+**Participation in shared tasks is encouraged**. Students from previous years have participated, for example, in challenges such as [SemEval 2020 unsupervised lexical semantic change](https://competitions.codalab.org/competitions/20948) (task 1) and [CLEF HIPE 2020](https://impresso.github.io/CLEF-HIPE-2020) (Named Entity Recognition and Linking on multilingual historical corpora).
+
+*I am currently loooking for students interested in participating at the [SemEval 2021 NLPContributionGraph](https://ncg-task.github.io) (task 11), focused on building knowledge bases from unstructured scientific publications.*
+
 ## AI for cultural heritage
 
 There are a variety of topics under this general theme which are of interest, as heritage collections have been widely digitized over recent years. Themes include the use of **active learning** to annotate and retrieve information (this is related to human-AI interaction or hybrid AI), the use of **transfer learning** (for example language models of virual features), the **automated enrichment of collections** via information extraction (for example, named entity recognition and linking).
