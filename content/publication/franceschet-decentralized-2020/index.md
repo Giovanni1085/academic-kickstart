@@ -37,7 +37,7 @@ featured: true
 projects: ["AICH-crypto-art"]
 
 # Links (optional).
-url_pdf = "https://www.mitpressjournals.org/doi/abs/10.1162/leon_a_02003"
+url_pdf: "https://www.mitpressjournals.org/doi/abs/10.1162/leon_a_02003"
 url_preprint: "https://arxiv.org/abs/1907.07758"
 #url_code = ""
 #url_dataset = ""
