@@ -38,7 +38,7 @@ featured: false
 
 # Links (optional).
 url_pdf: https://www.journals.uchicago.edu/doi/abs/10.1086/699300?mobileUi=0&
-#surl_preprint: https://www.insticc.org/node/TechnicalProgram/icaart/2020/presentationDetails/91690
+#url_preprint: https://www.insticc.org/node/TechnicalProgram/icaart/2020/presentationDetails/91690
 #url_code = ""
 #url_dataset = ""
 #url_project = ""

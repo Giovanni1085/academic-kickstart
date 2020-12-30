@@ -84,11 +84,11 @@ I am an assistant professor at the **University of Amsterdam**, a visiting resea
 My work focuses on **using data to study cultural and social phenomena**, including the human past, art markets, science communication and Wikipedia. I support the **open and free access to knowledge**, for people and machines alike.
 
 ## Recent news
-*Last update: November 2020.*
+*Last update: December 2020.*
 
+* **Two new grants**: *KIEM 2020* industry grant with [Brill](https://brill.com) and my friend [Matteo Romanello](https://dhcenter-unil-epfl.com/en/biography/matteo-romanello/) to extract knowledge graphs from scholarly publications. *Global Digital Cultures* research grant to explore [crypto art](https://www.giovannicolavizza.com/project/aich-crypto-art/) with [Monika Kackovic](https://www.uva.nl/profiel/k/a/m.kackovic/m.kackovic.html) and [Andrea Leiter](https://www.uva.nl/en/profile/l/e/a.b.leiter/a.b.leiter.html).
+* **Article**: *[Crypto Art: A Decentralized View](https://www.mitpressjournals.org/doi/abs/10.1162/leon_a_02003)*, *Leonardo*.
 * **Conference paper**: *[Transfer Learning for Historical Corpora: An Assessment on Post-OCR Correction and Named Entity Recognition](http://ceur-ws.org/Vol-2723/long32.pdf)*, *Computational Humanities Research*.
 * **Article**: *[A digital reconstruction of the 1630–1631 large plague outbreak in Venice](https://www.nature.com/articles/s41598-020-74775-6)*, *Scientific Reports*.
 * **Pre-print**: *[Experts and authorities receive disproportionate attention on Twitter during the COVID-19 crisis](https://arxiv.org/pdf/2008.08364)*, *arXiv*.
-* In 2020 I will be a **researcher in residence at the National Library of the Netherlands** on the project *[Is your OCR good enough? A comprehensive assessment of the impact of OCR quality on downstream tasks](https://www.kb.nl/nieuws/2020/giovanni-colavizza-en-seyran-khademi-zijn-de-researchers-in-residence-van-2020)*.
-
 

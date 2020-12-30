@@ -39,7 +39,7 @@ projects: ["CAH-impact-OCR"]
 
 # Links (optional).
 url_pdf: http://ceur-ws.org/Vol-2723/long32.pdf
-#url_preprint: ""
+#url_preprint = ""
 #url_code = ""
 #url_dataset = ""
 #url_project = ""
