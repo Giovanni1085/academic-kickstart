@@ -5,7 +5,7 @@ title: "Experts and authorities receive disproportionate attention on Twitter du
 date: 2020-08-19
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors: ["Kristina Gligorić","Manoel Horta Ribeiro","Martin Müller","Olesia Altunina","Maxime Peyrard","Marcel Salathé","Giovanni Colavizza","Robert West","Giovanni Colavizza"]
+authors: ["Kristina Gligorić","Manoel Horta Ribeiro","Martin Müller","Olesia Altunina","Maxime Peyrard","Marcel Salathé","Giovanni Colavizza","Robert West"]
 
 # Publication type.
 # Legend:
