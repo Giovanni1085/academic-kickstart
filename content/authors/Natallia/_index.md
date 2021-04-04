@@ -1,21 +1,21 @@
 ---
 # Display name
-name: Dr. Karlijn L. Roex
+name: Dr. Natallia Kokash
 
 # Username (this should match the folder name)
 authors:
-- Karlijn
+- Natallia
 
 # Is this the primary user of the site?
 superuser: False
 
 # Role/position
-role: Researcher
+role: Research software engineer
 
 # Organizations/Affiliations
 organizations:
 - name: University of Amsterdam
-  url: "https://www.uva.nl/profiel/r/o/k.l.a.roex/k.l.a.roex.html"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -39,16 +39,16 @@ social:
 #  link: https://twitter.com/giovanni1085
 - icon: linkedin
   icon_pack: fab
-  link: https://nl.linkedin.com/in/karlijn-roex-9861917a
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/Giovanni1085
+  link: https://nl.linkedin.com/in/natallia-kokash-7a8b276
+- icon: github
+  icon_pack: fab
+  link: https://github.com/albatros13
 #- icon: orcid
 #  icon_pack: ai
 #  link: https://orcid.org/0000-0002-9806-084X
 - icon: google-scholar
   icon_pack: ai
-  link: http://scholar.google.nl/citations?user=Pyo5HL4AAAAJ&hl=nl
+  link: https://scholar.google.com/citations?user=qKviINAAAAAJ&hl=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -64,7 +64,5 @@ user_groups:
 - Researchers
 ---
 
-Karlijn Roex is a postdoctoral researcher at the University of Amsterdam. Her research focuses on science practice and 'infodemics' during times of crisis – such as [the present COVID-19 crisis](https://covid19.humanities.uva.nl/). Karlijn is interested in science and technology studies, medical sociology, disaster studies and mass media. In 2018, she received her PhD from the University of Cologne and the Max Planck Institute, and has studied Sociology at the University of Oxford (Masters) and Utrecht (Bachelor).
-
-* Karlijn's [personal website](https://www.karlijnroex.net/).
+* Natallia's [personal website](http://www.nkokash.com).
 
