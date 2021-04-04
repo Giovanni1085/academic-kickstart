@@ -30,11 +30,11 @@ subtitle = ""
     tag = "Computational AH"
   
   [[content.filter_button]]
-    name = "AI for Cultural Heritage"
+    name = "Cultural AI"
     tag = "AI for Cultural Heritage"
 
   [[content.filter_button]]
-    name = "Science Studies"
+    name = "Scientometrics"
     tag = "Science Studies"
 
 [design]

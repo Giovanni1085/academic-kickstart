@@ -87,6 +87,6 @@ My work focuses on **using data to study cultural and social phenomena**, includ
 *Last update: April 2021.*
 
 * **Two new grants**: *KIEM 2020* industry grant with [Brill](https://brill.com) and my friend [Matteo Romanello](https://dhcenter-unil-epfl.com/en/biography/matteo-romanello/) to extract knowledge graphs from scholarly publications. *Global Digital Cultures* research grant to explore [crypto art](https://www.giovannicolavizza.com/project/aich-crypto-art/) with [Monika Kackovic](https://www.uva.nl/profiel/k/a/m.kackovic/m.kackovic.html) and [Andrea Leiter](https://www.uva.nl/en/profile/l/e/a.b.leiter/a.b.leiter.html).
-* **Conference paper**: *[On the Value of Wikipedia as a Gateway to the Web](https://arxiv.org/pdf/2102.07385.pdf)*, *World Wide Web Conference*.
-* **Article**: *[A scientometric overview of CORD-19](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244839)*, *PLOS ONE*.
+* **Conference paper**: *[On the Value of Wikipedia as a Gateway to the Web](https://arxiv.org/pdf/2102.07385.pdf)*, *World Wide Web Conference 2021*, with Tiziano Piccardi, Miriam Redi and Bob West.
+* **Article**: *[A scientometric overview of CORD-19](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244839)*, *PLOS ONE*, with Rodrigo Costas, Vincent A. Traag, Nees Jan van Eck, Thed van Leeuwen and Ludo Waltman.
 

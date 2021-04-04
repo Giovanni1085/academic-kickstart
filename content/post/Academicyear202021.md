@@ -24,13 +24,19 @@ During this academic year, I teach the following courses (in chronological order
 
 * **AI for society** (BSc, with Tobias Blanke)
 
+* Course repository: https://github.com/Giovanni1085/UvA_AIforSociety_2021.
+
 *AI is rapidly becoming part of our daily lives in many visible and invisible ways. Consequently, the social sciences and humanities are increasingly contributing to dominant research problems in AI. Examples include the ethical profiling of AI systems, including their privacy and governance, questions of fairness and accountability, as well as data bias and model interpretability. This course provides an opportunity to engage with these increasingly mainstream research questions. It does so by proposing a pathway into the main critical themes emerging when AI is applied in real-world scenarios, and it does so by highlighting the bi-directional contributions of the social sciences and humanities.*
 
 * **Text mining** (BSc)
 
+* Course repository: https://github.com/Giovanni1085/AUC_TMCI_2021.
+
 *The increasing amount of digitally available text data contains a wealth of information about topics, people, products, behaviours. Due to its numerous applications (research, industry, government, non-profit, etc), extracting information from, and working with, texts is of crucial importance. This is the aim of text mining. This course provides an introduction to text mining and natural language processing. The course will introduce fundamental concepts and techniques from (computational) linguistics, which are used to represent and model texts mathematically. It will also develop on machine learning techniques that allow us to make inferences and predictions about, e.g., user experiences, marketing and human behaviour from data that are generated and collected online.*
 
 * **Foundations of social and cultural data analysis** (MA)
+
+* Course repository: https://github.com/Giovanni1085/UvA_CSDA_2021.
 
 *In this course, you will learn how to code in Python and analyze data on socio-cultural phenomena. Socio-cultural data pose great challenges and offer many opportunities due to their variety and richness. Examples include historical and literary sources, social networks and media. The course offers a pathway into applied data analysis concepts and techniques, with applications in the arts and humanists*
 
