@@ -61,7 +61,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Team
 ---
 
 Konstantin Todorov recently graduated from a Masters of Artificial Intelligence at the University of Amsterdam and is now continuing his work on active transfer learning applied to historical collections. Konstantin is in particular working on Dutch historical collections from the National Library and the Rijksmuseum, on tasks including OCR quality and correction, and language modelling. He has a background in Computer Science and software development with more than 5 years of professional experience.

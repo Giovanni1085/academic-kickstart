@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Dr. Karlijn L. Roex
+name: Puyu Yang
 
 # Username (this should match the folder name)
 authors:
@@ -61,7 +61,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Doctoral students
+- Team
 ---
 
 Puyu Yang started his PhD at the Institute for Logic, Language and Computation in 2021, after studies in Physics and Communications Engineering. Puyu is primarily working on the public understanding of science through the lenses of social media and online platforms such as Wikipedia.

@@ -61,7 +61,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Team
 ---
 
 Karlijn Roex is a postdoctoral researcher at the University of Amsterdam. Her research focuses on science practice and 'infodemics' during times of crisis – such as [the present COVID-19 crisis](https://covid19.humanities.uva.nl/). Karlijn is interested in science and technology studies, medical sociology, disaster studies and mass media. In 2018, she received her PhD from the University of Cologne and the Max Planck Institute, and has studied Sociology at the University of Oxford (Masters) and Utrecht (Bachelor).
