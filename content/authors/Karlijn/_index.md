@@ -65,5 +65,7 @@ user_groups:
 ---
 
 Karlijn Roex is a postdoctoral researcher at the University of Amsterdam. Her research focuses on science practice and 'infodemics' during times of crisis - such as [the present COVID-19 crisis](https://covid19.humanities.uva.nl/). Karlijn is interested in science and technology studies, medical sociology, disaster studies and mass media. In 2018, she received her PhD from the University of Cologne and the Max Planck Institute, and has studied Sociology at the University of Oxford (Masters) and Utrecht (Bachelor).
-* **Pre-print**: *[Experts and authorities receive disproportionate attention on Twitter during the COVID-19 crisis](https://arxiv.org/pdf/2008.08364)*, *arXiv*.
+
+External references:
+* Karlijn's [personal website](https://www.karlijnroex.net/).
 
