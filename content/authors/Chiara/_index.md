@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Dr. Natallia Kokash
+name: Chiara Braidotti
 
 # Username (this should match the folder name)
 authors:
-- Natallia
+- Chiara
 
 # Is this the primary user of the site?
 superuser: False
 
 # Role/position
-role: Research software engineer
+role: Research assistant
 
 # Organizations/Affiliations
 organizations:
@@ -34,21 +34,21 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: mailto:g.colavizza@uva.nl  # For a direct email link, use "mailto:g.colavizza@uva.nl".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/giovanni1085
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/BraidottiChiara
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/natallia-kokash-7a8b276
-- icon: github
-  icon_pack: fab
-  link: https://github.com/albatros13
+  link: https://www.linkedin.com/in/chiara-braidotti-462b26bb
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/ktodorov
 #- icon: orcid
 #  icon_pack: ai
 #  link: https://orcid.org/0000-0002-9806-084X
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=qKviINAAAAAJ&hl=en
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=kSjXX7EAAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -64,9 +64,5 @@ user_groups:
 - Team
 ---
 
-Dr. Natallia Kokash is part-time ICT Developer at UvA and likes to combine academic work with hands-on development projects in various fields. She held the position of Associate Professor at RUDN and collaborated with a number of international organizations as IT Consultant and Software Developer. She received M.Sc. degree in Applied Mathematics and Computer Science from Belarusian State University in 2004 and PhD in Information Technology and Communication from University of Trento in 2008. 
-
-In her past academic career, she worked in several research institutes, including INRIA in France, Center for Mathematics and Computer Science and Leiden University in the Netherlands, and University College London in the United Kingdom. Her research interests include software engineering, web development, formal methods, modeling languages, data analysis and visualization, machine learning and applied data science.
-
-* Natallia's [personal website](http://www.nkokash.com).
+Chiara Braidotti is an art editor and curator collaborating with Fondazione MAXXI and Quodlibet as an editorial assistant to art and architecture publications. Her interest in art and blockchain led her to collaborate with prominent actors in the crypto comunity, joining the [MoCDA](https://www.mocda.org/) curatorial team to promote a deeper understanding of digital and crypto art.
 
