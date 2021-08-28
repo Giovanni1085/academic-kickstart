@@ -46,7 +46,7 @@ To know more: Ramage et al., *[Mapping Three Decades of Intellectual Change in A
 
 ## Industry projects
 
-These projects are suitable for students with a strong background in AI, are compensated and might lead to a hire in a new start-up: [Nifty Value](www.niftyvalue.com).
+These projects are suitable for students with a strong background in AI, are compensated and might lead to a hire in a new start-up: [Nifty Value](https://www.niftyvalue.com/).
 
 Crypto art is born-digital art tokenized and exchanged on blockchains, typically Ethereum. Crypto art is growing very rapidly, alongside the whole Non-Fungible Tokens (NTFs) market, and is at the forefront of experimentation on many art-related questions including generative (e.g., code-based) art.
 Nifty Value is assembling the largest crypto art market database currently available.

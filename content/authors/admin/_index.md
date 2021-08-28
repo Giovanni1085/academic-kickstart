@@ -84,13 +84,13 @@ I am an assistant professor at the **University of Amsterdam**, a visiting resea
 My work focuses on **using data to study cultural and social phenomena**, including the human past, art markets, science communication and Wikipedia. I support the **open and free access to knowledge**, for people and machines alike.
 
 ## Recent news
-*Last update: July 2021.*
+*Last update: August 2021.*
 
 <!--- **Two new grants**: *KIEM 2020* industry grant with [Brill](https://brill.com) and my friend [Matteo Romanello](https://dhcenter-unil-epfl.com/en/biography/matteo-romanello/) to extract knowledge graphs from scholarly publications. *Global Digital Cultures* research grant to explore [crypto art](https://www.giovannicolavizza.com/project/aich-crypto-art/) with [Monika Kackovic](https://www.uva.nl/profiel/k/a/m.kackovic/m.kackovic.html) and [Andrea Leiter](https://www.uva.nl/en/profile/l/e/a.b.leiter/a.b.leiter.html).
 * **Conference paper**: *[On the Value of Wikipedia as a Gateway to the Web](https://arxiv.org/pdf/2102.07385.pdf)*, *World Wide Web Conference 2021*, with Tiziano Piccardi, Miriam Redi and Bob West.
 -->
 * **Article**: *[Local2Global: Scaling global representation learning on graphs
-via local training](https://arxiv.org/pdf/2107.12224.pdf)*, *KDD2021*, with Lucas Jeub, Xiaowen Dong, Marya Bazzi, and Mihai Cucuringu.
+via local training](https://arxiv.org/abs/2107.12224)*, *KDD2021*, with Lucas Jeub, Xiaowen Dong, Marya Bazzi, and Mihai Cucuringu.
 * **Article**: *[Archives and AI: An Overview of Current Debates and Future Perspectives](https://arxiv.org/abs/2105.01117)*, *Journal on Computing and Cultural Heritage*, with Tobias Blanke, Charles Jeurgens, Julia Noordegraaf.
 * **Recent pre-prints**: *[Meta-research on COVID-19: An overview of the early trends](https://arxiv.org/abs/2106.02961)* and *[Neural Language Models for Nineteenth-Century English](https://arxiv.org/abs/2105.11321)* (the latter with Kasra Hosseini, Kaspar Beelen, Mariona Coll Ardanuy).
 * **New survey on crypto art now live**: [click here](https://cryptoart.humanities.uva.nl) to participate, check results and follow project updates. 

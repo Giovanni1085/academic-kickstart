@@ -8,7 +8,7 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 
-tags: ["Science Studies"] # CAH, AICH, SS, *
+tags: ["OLD"] # CAH, AICH, SS, *
 
 # Optional header image (relative to `static/img/` folder).
 image:
