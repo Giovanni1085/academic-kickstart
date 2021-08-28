@@ -8,7 +8,7 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 
-categories: ["teaching"]
+categories: ["OLD_teaching"]
 
 # Optional header image (relative to `static/img/` folder).
 header:
