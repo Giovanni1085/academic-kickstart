@@ -85,14 +85,14 @@ My work focuses on **using data to study cultural and social phenomena**, includ
 
 ## Recent news
 *Last update: November 2021.*
-
-* **New grant**: *WikipediaCitations: A FAIR dataset of Wikipedia’s citations to its sources*, thanks to the NWO Open Science fund. Abstract [here](https://www.nwo.nl/en/researchprogrammes/open-science/open-science-fund/open-science-fund-2021-awarded-grants).
 <!--
 * **News**: I will be visiting the [University of Bologna's Digital Humanities Advanced Research Centre](https://centri.unibo.it/dharc/en) during the first semester of the new academic year. See [here for more details](https://www.unibo.it/sitoweb/giovanni.colavizza).
 * **Article**: *[Local2Global: Scaling global representation learning on graphs
 via local training](https://arxiv.org/abs/2107.12224)*, *KDD2021*, with Lucas Jeub, Xiaowen Dong, Marya Bazzi, and Mihai Cucuringu.
 * **Article**: *[Archives and AI: An Overview of Current Debates and Future Perspectives](https://arxiv.org/abs/2105.01117)*, *Journal on Computing and Cultural Heritage*, with Tobias Blanke, Charles Jeurgens, Julia Noordegraaf.
 -->
+
+* **New grant**: *WikipediaCitations: A FAIR dataset of Wikipedia’s citations to its sources*, thanks to the NWO Open Science fund. Abstract [here](https://www.nwo.nl/en/researchprogrammes/open-science/open-science-fund/open-science-fund-2021-awarded-grants).
 * **Recent pre-prints**: *[A map of Digital Humanities research across bibliographic data sources](https://arxiv.org/abs/2108.12190)* (with Gianmarco Spinaci and Silvio Peroni); *[The case for the Humanities Citation Index (HuCI): a citation index by the humanities, for the humanities](https://arxiv.org/abs/2110.00307)* (with Silvio Peroni and Matteo Romaello); *[A Map of Science in Wikipedia](https://arxiv.org/abs/2110.13790)* (with Puyu Yang).
 * **Blogpost**: *[Crypto Art: Who's here? What's happening](https://cryptoart.humanities.uva.nl/portfolio/crypto-art-whos-here-whats-happening)* first results from our survey of the crypto art community. 
 
