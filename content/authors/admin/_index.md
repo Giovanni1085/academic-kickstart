@@ -83,7 +83,7 @@ I am currently an assistant professor at the **University of Amsterdam** (NL).
 
 My research focuses on **using data to study cultural and social phenomena**, including the human past, the arts market, science communication and Wikipedia. 
 
-I also work on **using machine learning to automate workflows in cultural organisations and the creative industries**, and on supporting the **open and free access to knowledge**.
+I also work on **applying machine learning to automate workflows in cultural organisations and the creative industries**, and on supporting the **open and free access to knowledge**.
 
 ## Recent news
 *Last update: February 2022.*
@@ -94,7 +94,7 @@ via local training](https://arxiv.org/abs/2107.12224)*, *KDD2021*, with Lucas Je
 * **Article**: *[Archives and AI: An Overview of Current Debates and Future Perspectives](https://arxiv.org/abs/2105.01117)*, *Journal on Computing and Cultural Heritage*, with Tobias Blanke, Charles Jeurgens, Julia Noordegraaf.
 -->
 
-* **Grants**: *WikipediaCitations: A FAIR dataset of Wikipedia’s citations to its sources*, thanks to the NWO Open Science fund. Abstract [here](https://www.nwo.nl/en/researchprogrammes/open-science/open-science-fund/open-science-fund-2021-awarded-grants).
+* **Grants**: *WikipediaCitations: A FAIR dataset of Wikipedia’s citations to its sources*, thanks to the NWO Open Science fund. [Read the abstract here](https://www.nwo.nl/en/researchprogrammes/open-science/open-science-fund/open-science-fund-2021-awarded-grants).
 * **Journal articles**: *[Archives and AI: An Overview of Current Debates and Future Perspectives](https://dl.acm.org/doi/full/10.1145/3479010)* (with Tobias Blanke, Charles Jeurgens and Julia Noordegraaf) 
 * **Fresh pre-prints**: *[An Assessment of the Impact of OCR Noise on Language Models](https://arxiv.org/abs/2202.00470)* (with Konstantin Todorov) and *[Local2Global: A distributed approach for scaling representation learning on graphs](https://arxiv.org/abs/2201.04729)* (with Lucas G. S. Jeub, Xiaowen Dong, Marya Bazzi, Mihai Cucuringu).
 * **Blogposts**: *[The crypto art market between artists and collectors](https://cryptoart.humanities.uva.nl/the-crypto-art-market-between-artists-and-collectors/)* first results from our survey of the crypto art community. 

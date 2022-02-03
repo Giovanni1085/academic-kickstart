@@ -1,6 +1,6 @@
 ---
 title: Impact of HTR/OCR quality
-summary: Assessing and copying with the impact of noisy content extraction via Handwritten or Optical Character Recognition on text processing and analyses.
+summary: Assessing the impact of noisy contents extracted from historical documents, on text processing and analyses.
 date: "2022-01-01T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
