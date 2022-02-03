@@ -38,7 +38,7 @@ projects: ["CAH-information-extraction"]
 
 # Links (optional).
 url_pdf: https://dl.acm.org/doi/pdf/10.1145/3479010
-url_preprint = https://arxiv.org/abs/2105.01117
+url_preprint: https://arxiv.org/abs/2105.01117
 #url_code = ""
 #url_dataset = ""
 #url_project = ""
