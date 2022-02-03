@@ -8,7 +8,7 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 
-tags: ["Computational Arts & Humanities"] # CAH, AICH, SS, *
+tags: ["Computational Arts and Humanities"] # CAH, AICH, SS, *
 
 # Optional header image (relative to `static/img/` folder).
 image:

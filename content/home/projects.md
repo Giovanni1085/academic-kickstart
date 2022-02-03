@@ -27,7 +27,7 @@ subtitle = ""
 
   [[content.filter_button]]
     name = "Computational Arts & Humanities"
-    tag = "Computational Arts & Humanities"
+    tag = "Computational Arts and Humanities"
   
   [[content.filter_button]]
     name = "Cultural AI"
