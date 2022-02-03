@@ -79,9 +79,11 @@ user_groups:
 - Principal Investigators
 ---
 
-I am an assistant professor at the **University of Amsterdam**; a visiting researcher at [The Alan Turing Institute](https://www.turing.ac.uk) (UK) and at the [Centre for Science and Technology Studies](https://www.cwts.nl) (CWTS), Leiden University (NL); a visiting professor at the [University of Bologna's Digital Humanities Advanced Research Centre](https://centri.unibo.it/dharc/en).
+I am currently an assistant professor at the **University of Amsterdam** (NL).
 
-My work focuses on **using data to study cultural and social phenomena**, including the human past, the arts market, science communication and Wikipedia. I also work on **using AI to automate workflows in cultural organisations and the creative industries**. I support the **open and free access to knowledge**.
+My research focuses on **using data to study cultural and social phenomena**, including the human past, the arts market, science communication and Wikipedia. 
+
+I also work on **using machine learning to automate workflows in cultural organisations and the creative industries**, and on supporting the **open and free access to knowledge**.
 
 ## Recent news
 *Last update: February 2022.*
