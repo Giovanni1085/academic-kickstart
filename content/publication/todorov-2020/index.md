@@ -1,6 +1,5 @@
 ---
-title: "Transfer Learning for Historical Corpora: An Assessment
-on Post-OCR Correction and Named Entity Recognition"
+title: "Transfer Learning for Historical Corpora: An Assessment on Post-OCR Correction and Named Entity Recognition"
 
 # Date first published.
 date: 2020-11-01

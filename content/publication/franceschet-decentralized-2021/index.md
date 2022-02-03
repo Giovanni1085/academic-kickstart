@@ -2,7 +2,7 @@
 title: "Crypto art: A decentralized view"
 
 # Date first published.
-date: 2020-12-08
+date: 2021-08-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors: ["Massimo Franceschet", "Giovanni Colavizza", "T'ai Smith", "Blake Finucane", "Martin Lukas Ostachowski", "Sergio Scalet", "Jonathan Perkins", "James Morgan", "Sebastian Hernandez"]

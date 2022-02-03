@@ -9,7 +9,6 @@ title = "Commercial"
 subtitle = ""
 +++
 
-With my company [Odoma](https://www.odoma.ch), we provide solutions to leverage **artificial intelligence (AI) in the cultural heritage sector**. We work with both public and private clients and have multiple years of experience. We are particularly good at **designing and developing tailor-made solutions**. Our clients include the Swiss watchmaker Longines and the Olympic Committee.
+With my company [Odoma](https://www.odoma.ch), we provide expert consulting to leverage **artificial intelligence (AI) in cultural organisations and the creative industries**. We work with a variety of small to large public and private clients since several years. At Odoma, we are specialised in **designing and developing tailor-made AI solutions**.
 
-I also do **independent consulting** on matters related to *AI for cultural heritage, digital humanities, digitization, scholarly information retreival, AI for science*. If interested, get in touch at <giovanni.colavizza@odoma.ch>.
-
+I also do **independent consulting** on matters related to *automation in cultural organisations and creative industries, digital humanities, digitisation, scientific information extraction and retreival*. If interested, please get in touch at <giovanni.colavizza@odoma.ch>.

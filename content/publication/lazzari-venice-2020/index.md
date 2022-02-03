@@ -34,7 +34,7 @@ featured: true
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects: ["AICH-historical-epidemics"]
+projects: ["AICH-historical-research"]
 
 # Links (optional).
 url_pdf: https://www.nature.com/articles/s41598-020-74775-6

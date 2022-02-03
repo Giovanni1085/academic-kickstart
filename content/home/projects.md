@@ -27,15 +27,15 @@ subtitle = ""
 
   [[content.filter_button]]
     name = "Computational Arts & Humanities"
-    tag = "Computational AH"
+    tag = "Computational Arts & Humanities"
   
   [[content.filter_button]]
     name = "Cultural AI"
-    tag = "AI for Cultural Heritage"
+    tag = "Automation in cultural organisations"
 
   [[content.filter_button]]
-    name = "Scientometrics"
-    tag = "Science Studies"
+    name = "Metascience"
+    tag = "Metascience"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
