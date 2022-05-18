@@ -86,7 +86,7 @@ My research focuses on **using data to study cultural and social phenomena**, in
 I also work on **applying machine learning to automate workflows in cultural organisations and the creative industries**, and on supporting the **open and free access to knowledge**.
 
 ## Recent news
-*Last update: February 2022.*
+*Last update: May 2022.*
 <!--
 * **News**: I will be visiting the [University of Bologna's Digital Humanities Advanced Research Centre](https://centri.unibo.it/dharc/en) during the first semester of the new academic year. See [here for more details](https://www.unibo.it/sitoweb/giovanni.colavizza).
 * **Article**: *[Local2Global: Scaling global representation learning on graphs
@@ -95,7 +95,7 @@ via local training](https://arxiv.org/abs/2107.12224)*, *KDD2021*, with Lucas Je
 -->
 
 * **Grants**: *WikipediaCitations: A FAIR dataset of Wikipedia’s citations to its sources*, thanks to the NWO Open Science fund. [Read the abstract here](https://www.nwo.nl/en/researchprogrammes/open-science/open-science-fund/open-science-fund-2021-awarded-grants).
-* **Journal articles**: *[Archives and AI: An Overview of Current Debates and Future Perspectives](https://dl.acm.org/doi/full/10.1145/3479010)* (with Tobias Blanke, Charles Jeurgens and Julia Noordegraaf) 
-* **Fresh pre-prints**: *[An Assessment of the Impact of OCR Noise on Language Models](https://arxiv.org/abs/2202.00470)* (with Konstantin Todorov) and *[Local2Global: A distributed approach for scaling representation learning on graphs](https://arxiv.org/abs/2201.04729)* (with Lucas G. S. Jeub, Xiaowen Dong, Marya Bazzi, Mihai Cucuringu).
-* **Blogposts**: *[The crypto art market between artists and collectors](https://cryptoart.humanities.uva.nl/the-crypto-art-market-between-artists-and-collectors/)* first results from our survey of the crypto art community. 
+* **New journal article**: *[A map of Digital Humanities research across bibliographic data sources](https://doi.org/10.1093/llc/fqac016)*, Digital Scholarship in the Humanities (with Gianmarco Spinaci and Silvio Peroni). 
+* **New pre-print**: *[From Books to Knowledge Graphs](https://arxiv.org/abs/2204.10766)* (with Natallia Kokash, Matteo Romanello, Ernest Suyver).
+* **New blogpost**: *[The crypto art market between artists and collectors](https://cryptoart.humanities.uva.nl/the-crypto-art-market-between-artists-and-collectors/)* first results from our survey of the crypto art community. 
 

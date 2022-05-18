@@ -1,21 +1,21 @@
 ---
 # Display name
-name: Chiara Braidotti
+name: Liangping Ding
 
 # Username (this should match the folder name)
 authors:
-- Chiara
+- Liangping
 
 # Is this the primary user of the site?
 superuser: False
 
 # Role/position
-role: Research assistant
+role: Doctoral student
 
 # Organizations/Affiliations
 organizations:
 - name: University of Amsterdam
-  url: ""
+  #url: "https://phdprogramme.illc.uva.nl/people/PhD-Candidates/PhD-candidates/person/5164/Puyu-Yang"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -34,21 +34,21 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: mailto:g.colavizza@uva.nl  # For a direct email link, use "mailto:g.colavizza@uva.nl".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/BraidottiChiara
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/chiara-braidotti-462b26bb
-#- icon: github
+#- icon: twitter
 #  icon_pack: fab
-#  link: https://github.com/ktodorov
+#  link: https://twitter.com/giovanni1085
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://nl.linkedin.com/in/karlijn-roex-9861917a
+- icon: github
+  icon_pack: fab
+  link: https://github.com/possible1402
 #- icon: orcid
 #  icon_pack: ai
 #  link: https://orcid.org/0000-0002-9806-084X
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=kSjXX7EAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com.hk/citations?user=-u_cyiMAAAAJ&hl=zh-CN
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -64,5 +64,4 @@ user_groups:
 - Team
 ---
 
-Chiara Braidotti is an art editor and curator collaborating with Fondazione MAXXI and Quodlibet as an editorial assistant to art and architecture publications. Her interest in art and blockchain led her to collaborate with prominent actors in the crypto comunity, joining the [MoCDA](https://www.mocda.org/) curatorial team to promote a deeper understanding of digital and crypto art.
-
+Liangping Ding is a visiting PhD at UvA, from the University of the Chinese Academy of Sciences. She majors in information science and her research interests include natural language processing, named entity recognition and literature-based knowledge discovery. She is primarily working on tackling the incomplete annotation problem in named entity recognition by using partial annotated learning.
