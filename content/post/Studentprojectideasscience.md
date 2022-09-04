@@ -44,13 +44,13 @@ How scientists use natural language to communicate? How does their use differs a
 
 To know more: Ramage et al., *[Mapping Three Decades of Intellectual Change in Academia](https://arxiv.org/abs/2004.01291)*, 2020.
 
-### NFT art valuation and investment
+## NFT art valuation and investment
 
 We intend to develop accurate automated art valuation models combining market, artwork and social media data. The student will get access to Nifty Value's data in order to design, develop and test models for the prediction of art prices, eventually designing and assessing investment strategies for different risk profiles.
 
 This project is ideal for a student with a strong interest in applying AI to finance and art, and is linked to the activities of a start-up. See [Nifty Value](https://www.niftyvalue.com/) for more.
  
-### Augmenting art discovery
+## Augmenting art discovery
 
 We intend to develop a recommendation engine based on the visuals of an artwork (aesthetics) as well as its market history. The personalised recommendation of art is a difficult task to partially automate as art appreciation is very subjective. The goal of the project is to develop a system which can recommend art as an investment (for profit) or according to personal taste (for pleasure).
 

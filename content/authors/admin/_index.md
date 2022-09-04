@@ -86,7 +86,7 @@ My research focuses on **using data to study cultural and social phenomena**, in
 I also work on **applying machine learning to automate workflows in cultural organisations and the creative industries**, and on supporting the **open and free access to knowledge**.
 
 ## Recent news
-*Last update: May 2022.*
+*Last update: September 2022.*
 <!--
 * **News**: I will be visiting the [University of Bologna's Digital Humanities Advanced Research Centre](https://centri.unibo.it/dharc/en) during the first semester of the new academic year. See [here for more details](https://www.unibo.it/sitoweb/giovanni.colavizza).
 * **Article**: *[Local2Global: Scaling global representation learning on graphs

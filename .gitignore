@@ -1,4 +1,7 @@
 content/authors/legacy/*
+.DS_Store
+*/.DS_Store
+**/.DS_Store
 
 # IDEs
 .idea/
