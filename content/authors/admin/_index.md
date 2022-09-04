@@ -95,7 +95,6 @@ via local training](https://arxiv.org/abs/2107.12224)*, *KDD2021*, with Lucas Je
 -->
 
 * **Grants**: *WikipediaCitations: A FAIR dataset of Wikipedia’s citations to its sources*, thanks to the NWO Open Science fund. [Read the abstract here](https://www.nwo.nl/en/researchprogrammes/open-science/open-science-fund/open-science-fund-2021-awarded-grants).
-* **New journal article**: *[A map of Digital Humanities research across bibliographic data sources](https://doi.org/10.1093/llc/fqac016)*, Digital Scholarship in the Humanities (with Gianmarco Spinaci and Silvio Peroni). 
-* **New pre-print**: *[From Books to Knowledge Graphs](https://arxiv.org/abs/2204.10766)* (with Natallia Kokash, Matteo Romanello, Ernest Suyver).
-* **New blogpost**: *[The crypto art market between artists and collectors](https://cryptoart.humanities.uva.nl/the-crypto-art-market-between-artists-and-collectors/)* first results from our survey of the crypto art community. 
+* **New journal article**: *[The case for the Humanities Citation Index (HuCI): a citation index by the humanities, for the humanities](https://link.springer.com/article/10.1007/s00799-022-00327-0)*, International Journal on Digital Libraries (with Silvio Peroni and Matteo Romanello). 
+* **New pre-print**: *[From Books to Knowledge Graphs](https://arxiv.org/abs/2204.10766)* (with Natallia Kokash, Matteo Romanello, Ernest Suyver). 
 

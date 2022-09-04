@@ -1,7 +1,7 @@
 ---
 title: Student project ideas (science)
 summary: A list of project ideas for students in science, including computer science, data science, machine learning, etc.
-date: "2020-08-28T00:00:01Z"
+date: "2022-09-04T00:00:01Z"
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -22,13 +22,13 @@ If you like one of them, or you would like to propose something else, get in tou
 
 **Participation in shared tasks is very encouraged**. Students from previous years have participated, for example, in challenges such as [SemEval 2020 unsupervised lexical semantic change](https://competitions.codalab.org/competitions/20948) (task 1) and [CLEF HIPE 2020](https://impresso.github.io/CLEF-HIPE-2020) (Named Entity Recognition and Linking on multilingual historical corpora).
 
-*I am currently loooking for students interested in participating to CLEF HIPE 2022, focused on Named Entity Recognition and Linking on multilingual historical corpora.*
-
 ## AI for cultural heritage
 
-There are a variety of topics under this general theme which are of interest, as heritage collections have been widely digitized over recent years. Themes include the use of **active learning** to annotate and retrieve information (this is related to human-AI interaction or hybrid AI), the use of **transfer learning** (for example language models of virual features), the **automated enrichment of collections** via information extraction (for example, named entity recognition and linking).
+There are a variety of topics under this general theme which are of interest, as heritage collections have been widely digitized over recent years. Themes include the use of **active learning** to annotate and retrieve information (this is related to human-AI interaction or hybrid AI), the use of **transfer learning** (for example language models of virual features), the **automated enrichment of collections** via information extraction (for example, named entity recognition and linking), and the application of **explainable AI** methods to automated tasks in cultural or creative workflows.
 
 Several of these topics are developed within the context of the [Creative Amsterdam initiative](https://www.create.humanities.uva.nl/ai-for-cultural-heritage/) (CREATE) at UvA, and in collaboration with Dutch heritage organizations. 
+
+For **internships and industry projects** under this theme, see below or visit [Odoma](https://www.odoma.ch).
 
 To know more: Fiorucci et al., *[Machine Learning for Cultural Heritage: A Survey](https://www.sciencedirect.com/science/article/pii/S0167865520300532)*, 2020. 
 
@@ -44,23 +44,20 @@ How scientists use natural language to communicate? How does their use differs a
 
 To know more: Ramage et al., *[Mapping Three Decades of Intellectual Change in Academia](https://arxiv.org/abs/2004.01291)*, 2020.
 
-## Industry projects
-
-These projects are suitable for students with a strong background in AI, are compensated and might lead to a hire in a new start-up: [Nifty Value](https://www.niftyvalue.com/).
-
-Crypto art is born-digital art tokenized and exchanged on blockchains, typically Ethereum. Crypto art is growing very rapidly, alongside the whole Non-Fungible Tokens (NTFs) market, and is at the forefront of experimentation on many art-related questions including generative (e.g., code-based) art.
-Nifty Value is assembling the largest crypto art market database currently available.
-
-### Automating crypto art valuation and investment
+### NFT art valuation and investment
 
 We intend to develop accurate automated art valuation models combining market, artwork and social media data. The student will get access to Nifty Value's data in order to design, develop and test models for the prediction of art prices, eventually designing and assessing investment strategies for different risk profiles.
 
-This project is ideal for a student with a strong interest in applying AI to finance and art. Furthermore, this position is paid and might lead to a hire. Please get in touch if you are interested to know more.
+This project is ideal for a student with a strong interest in applying AI to finance and art, and is linked to the activities of a start-up. See [Nifty Value](https://www.niftyvalue.com/) for more.
  
-### Spotify for art: Automating art discovery
+### Augmenting art discovery
 
 We intend to develop a recommendation engine based on the visuals of an artwork (aesthetics) as well as its market history. The personalised recommendation of art is a difficult task to partially automate as art appreciation is very subjective. The goal of the project is to develop a system which can recommend art as an investment (for profit) or according to personal taste (for pleasure).
 
-This project is ideal for a student with a strong interest in applying AI to information retrieval, finance and art. Furthermore, this position is paid and might lead to a hire. Please get in touch if you are interested to know more.
+This project is ideal for a student with a strong interest in applying AI to information retrieval, finance and art, and is linked to the activities of a start-up. See [Nifty Value](https://www.niftyvalue.com/) for more.
+
+## Industry internships
+
+These projects are suitable for students with a strong background in AI and an interest in cultural heritage or the creative industries. Projects might be compensated as part of contracts via the consulting company [Odoma](https://www.odoma.ch).
 
 
