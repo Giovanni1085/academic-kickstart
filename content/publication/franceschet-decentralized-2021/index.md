@@ -34,7 +34,7 @@ featured: true
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects: ["AICH-crypto-art"]
+projects: ["AICH-NFT-art"]
 
 # Links (optional).
 url_pdf: "https://www.mitpressjournals.org/doi/abs/10.1162/leon_a_02003"

@@ -1,5 +1,5 @@
 ---
-title: NFT Art
+title: Digital NFT Art
 summary: "An open-ended investigation into the culture and economics of NFT Art: Digital art exchanged on blockchains."
 date: "2022-01-01T00:00:00Z"
 
@@ -8,7 +8,7 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 
-tags: ["Computational Arts and Humanities"] # CAH, AICH, SS, *
+tags: ["Cultural Analysis"] # CAH, AICH, SS, *
 
 # Optional header image (relative to `static/img/` folder).
 image:
