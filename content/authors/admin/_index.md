@@ -79,11 +79,9 @@ user_groups:
 - Principal Investigators
 ---
 
-I am currently an assistant professor at the **[University of Amsterdam](https://www.uva.nl/en/profile/c/o/g.colavizza/g.colavizza.html)** (NL) and a co-founder at **[Odoma](https://www.odoma.ch)** (CH).
+I am currently an assistant professor of digital humanities at the **[University of Amsterdam](https://www.uva.nl/en/profile/c/o/g.colavizza/g.colavizza.html)** (NL) and a co-founder at **[Odoma](https://www.odoma.ch)** (CH).
 
-I am interested in **using data to study cultural and social phenomena**, including the human past, the arts market, and Wikipedia. 
-
-My current work focuses on developing responsible **automated workflows in the cultural and creative sectors**.
+I am interested in **using data to study cultural and social phenomena**, including the human past, the arts market, open science, and Wikipedia. I also work on developing responsible **automated workflows in the cultural and creative sectors**.
 
 ## Recent news
 *Last update: November 2022.*
