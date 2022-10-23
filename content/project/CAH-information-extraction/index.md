@@ -8,7 +8,7 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 
-tags: ["Automation in cultural organisations"] # CAH, AICH, SS, *
+tags: ["AI workflows"] # CAH, AICH, SS, *
 
 # Optional header image (relative to `static/img/` folder).
 image:

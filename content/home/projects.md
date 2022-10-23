@@ -26,12 +26,12 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "Computational Arts & Humanities"
-    tag = "Computational Arts and Humanities"
-  
+    name = "AI workflows"
+    tag = "AI workflows"
+
   [[content.filter_button]]
-    name = "Cultural AI"
-    tag = "Automation in cultural organisations"
+    name = "Cultural Analysis"
+    tag = "Cultural Analysis"
 
   [[content.filter_button]]
     name = "Metascience"
