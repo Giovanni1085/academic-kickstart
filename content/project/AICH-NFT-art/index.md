@@ -1,5 +1,5 @@
 ---
-title: Digital NFT Art
+title: Digital NFT art
 summary: "An open-ended investigation into the culture and economics of NFT Art: Digital art exchanged on blockchains."
 date: "2022-01-01T00:00:00Z"
 

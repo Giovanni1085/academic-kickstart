@@ -15,4 +15,4 @@ image:
   preview_only: true
 ---
 
-This line of research focuses on a variety of topics from studying historical epidemics to apprenticeship and knowledge tramsmission, to migratory patterns in early modern Venice.
+This line of research focuses on a variety of topics in history, from studying historical epidemics, to apprenticeship and knowledge tramsmission, to migratory patterns in early modern Venice.

@@ -15,4 +15,4 @@ image:
   preview_only: true
 ---
 
-The Arts & Humanities are a wide and multifaceted set of disciplines, with many research interests. To date, **a map of Arts & Humanities research** does not exist: we seek to create one and use it to understand how the Arts & Humanities organise socially and intellectually, and how new knowledge develops in these disciplines.
+The Arts & Humanities are a wide and multifaceted set of disciplines, with many research interests. To date, **a comprehensive map of Arts & Humanities research** does not exist: we seek to create one and use it to understand how the Arts & Humanities organise socially and intellectually, and how new knowledge develops in these disciplines.
