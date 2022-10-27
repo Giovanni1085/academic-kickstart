@@ -92,7 +92,7 @@ via local training](https://arxiv.org/abs/2107.12224)*, *KDD2021*, with Lucas Je
 * **Article**: *[Archives and AI: An Overview of Current Debates and Future Perspectives](https://arxiv.org/abs/2105.01117)*, *Journal on Computing and Cultural Heritage*, with Tobias Blanke, Charles Jeurgens, Julia Noordegraaf.
 -->
 
-* **Grants**: *WikipediaCitations: A FAIR dataset of Wikipedia’s citations to its sources* (NWO Open Science Fund). [Read the project showcase](https://www.nwo.nl/en/overview-pages/open-science-practice) or [watch the video interviews](https://www.youtube.com/watch?v=5givQvHAS4k&ab_channel=NWOWetenschap).
+* **Grants**: *WikipediaCitations: A FAIR dataset of Wikipedia’s citations to its sources* (NWO Open Science Fund). [Read the project showcase](https://www.nwo.nl/en/overview-pages/open-science-practice#wikipediacitations) or [watch the video interviews](https://www.youtube.com/watch?v=5givQvHAS4k&ab_channel=NWOWetenschap).
 * **New journal article**: *[The case for the Humanities Citation Index (HuCI): a citation index by the humanities, for the humanities](https://link.springer.com/article/10.1007/s00799-022-00327-0)*, International Journal on Digital Libraries (with Silvio Peroni and Matteo Romanello). 
 * **New pre-prints**: 
   - *[Seller-buyer networks in NFT art are driven by preferential ties](https://arxiv.org/abs/2210.04339)*.
