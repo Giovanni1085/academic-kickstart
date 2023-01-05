@@ -84,7 +84,7 @@ I am currently an assistant professor of digital humanities at the **[University
 I am interested in **using data to study cultural and social phenomena**, including the human past, the arts market, open science, and Wikipedia. I also work on developing **responsible AI workflows in the cultural and creative sectors**.
 
 ## Recent news
-*Last update: November 2022.*
+*Last update: January 2023.*
 <!--
 * **News**: I will be visiting the [University of Bologna's Digital Humanities Advanced Research Centre](https://centri.unibo.it/dharc/en) during the first semester of the new academic year. See [here for more details](https://www.unibo.it/sitoweb/giovanni.colavizza).
 * **Article**: *[Local2Global: Scaling global representation learning on graphs
@@ -95,6 +95,7 @@ via local training](https://arxiv.org/abs/2107.12224)*, *KDD2021*, with Lucas Je
 * **Grants**: *WikipediaCitations: A FAIR dataset of Wikipedia’s citations to its sources* (NWO Open Science Fund). [Read the project showcase](https://www.nwo.nl/en/overview-pages/open-science-practice#wikipediacitations) or [watch the video interviews](https://www.youtube.com/watch?v=5givQvHAS4k&ab_channel=NWOWetenschap).
 * **New journal article**: *[The case for the Humanities Citation Index (HuCI): a citation index by the humanities, for the humanities](https://link.springer.com/article/10.1007/s00799-022-00327-0)*, International Journal on Digital Libraries (with Silvio Peroni and Matteo Romanello). 
 * **New pre-prints**: 
+  - *[Polarization and reliability of news sources in Wikipedia](https://arxiv.org/abs/2210.16065)* (with Puyu Yang).
   - *[Seller-buyer networks in NFT art are driven by preferential ties](https://arxiv.org/abs/2210.04339)*.
   - *[Unsilencing Colonial Archives via Automated Entity Recognition](https://arxiv.org/abs/2210.02194)* (with Mrinalini Luthra, Konstantin Todorov, Charles Jeurgens).
 
