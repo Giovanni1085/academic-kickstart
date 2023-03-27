@@ -38,7 +38,7 @@ projects: ["AI workflows"]
 
 # Links (optional).
 url_pdf: https://www.emerald.com/insight/content/doi/10.1108/JD-02-2022-0038/full/html
-url_preprint = https://arxiv.org/abs/2210.02194
+url_preprint: https://arxiv.org/abs/2210.02194
 #url_code = ""
 #url_dataset = ""
 #url_project = ""

@@ -84,7 +84,7 @@ I am currently an assistant professor of digital humanities at the **[University
 I am interested in **using data to study cultural and social phenomena**, including the human past, the arts market, open science, and Wikipedia. I also work on developing **responsible AI workflows in the cultural and creative sectors**.
 
 ## Recent news
-*Last update: January 2023.*
+*Last update: March 2023.*
 <!--
 * **News**: I will be visiting the [University of Bologna's Digital Humanities Advanced Research Centre](https://centri.unibo.it/dharc/en) during the first semester of the new academic year. See [here for more details](https://www.unibo.it/sitoweb/giovanni.colavizza).
 * **Article**: *[Local2Global: Scaling global representation learning on graphs
