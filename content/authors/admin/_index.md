@@ -93,9 +93,15 @@ via local training](https://arxiv.org/abs/2107.12224)*, *KDD2021*, with Lucas Je
 -->
 
 * **Grants**: *WikipediaCitations: A FAIR dataset of Wikipedia’s citations to its sources* (NWO Open Science Fund). [Read the project showcase](https://www.nwo.nl/en/overview-pages/open-science-practice#wikipediacitations) or [watch the video interviews](https://www.youtube.com/watch?v=5givQvHAS4k&ab_channel=NWOWetenschap).
-* **New journal article**: *[The case for the Humanities Citation Index (HuCI): a citation index by the humanities, for the humanities](https://link.springer.com/article/10.1007/s00799-022-00327-0)*, International Journal on Digital Libraries (with Silvio Peroni and Matteo Romanello). 
+* **New journal articles**: 
+  - *[Seller-buyer networks in NFT art are driven by preferential ties](https://www.frontiersin.org/articles/10.3389/fbloc.2022.1073499/full)*, Frontiers in Blockchain. 
+  - *[Unsilencing colonial archives via automated entity recognition](https://www.emerald.com/insight/content/doi/10.1108/JD-02-2022-0038/full/html)*, Journal of Documentation (with Mrinalini Luthra, Konstantin Todorov, and Charles Jeurgens).
+  - *[Local2Global: a distributed approach for scaling representation learning on graphs](https://link.springer.com/article/10.1007/s10994-022-06285-7)*, Machine Learning (with Lucas G. S. Jeub, Xiaowen Dong, Marya Bazzi, and Mihai Cucuringu).
+  - *[From Books to Knowledge Graphs](https://jdmdh.episciences.org/11062)*, Journal of Data Mining and Digital Humanities (with Natallia Kokash, Matteo Romanello, and Ernest Suyver).
+
+<!--
 * **New pre-prints**: 
   - *[Polarization and reliability of news sources in Wikipedia](https://arxiv.org/abs/2210.16065)* (with Puyu Yang).
   - *[Seller-buyer networks in NFT art are driven by preferential ties](https://arxiv.org/abs/2210.04339)*.
   - *[Unsilencing Colonial Archives via Automated Entity Recognition](https://arxiv.org/abs/2210.02194)* (with Mrinalini Luthra, Konstantin Todorov, Charles Jeurgens).
-
+-->
