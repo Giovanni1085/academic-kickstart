@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of Digital Humanities
+role: Associate Professor of Media Engineering
 
 # Organizations/Affiliations
-organizations:
-- name: University of Amsterdam
-  url: "https://www.uva.nl/en/profile/c/o/g.colavizza/g.colavizza.html"
+#organizations:
+#- name: University of Amsterdam
+#  url: "https://www.uva.nl/en/profile/c/o/g.colavizza/g.colavizza.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -48,7 +48,7 @@ bio: ""
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:g.colavizza@uva.nl  # For a direct email link, use "mailto:g.colavizza@uva.nl".
+  link: mailto:giovanni.colavizza@heig-vd.ch  # For a direct email link, use "mailto:g.colavizza@uva.nl".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/giovanni1085
@@ -79,7 +79,7 @@ user_groups:
 - Principal Investigators
 ---
 
-I am currently an associate professor of media engineering at the **[Haute Ecole d'Ingénierie et de Gestion du Canton de Vaud - HEIG‑VD](https://heig-vd.ch/)** (CH) and a co-founder at **[Odoma](https://www.odoma.ch)** (CH).
+I am currently an associate professor of media engineering at the Haute Ecole d'Ingénierie et de Gestion du Canton de Vaud - **[HEIG‑VD](https://heig-vd.ch/)** (CH) and a co-founder at **[Odoma](https://www.odoma.ch)** (CH).
 
 I am interested in **using data to study cultural and social phenomena**, including the human past, the arts market, open science, and Wikipedia. I also work on developing **AI workflows in the cultural and creative sectors**.
 
