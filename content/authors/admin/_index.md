@@ -79,12 +79,12 @@ user_groups:
 - Principal Investigators
 ---
 
-I am currently an assistant professor of digital humanities at the **[University of Amsterdam](https://www.uva.nl/en/profile/c/o/g.colavizza/g.colavizza.html)** (NL) and a co-founder at **[Odoma](https://www.odoma.ch)** (CH).
+I am currently an associate professor of media engineering at the **[Haute Ecole d'Ingénierie et de Gestion du Canton de Vaud - HEIG‑VD](https://heig-vd.ch/)** (CH) and a co-founder at **[Odoma](https://www.odoma.ch)** (CH).
 
-I am interested in **using data to study cultural and social phenomena**, including the human past, the arts market, open science, and Wikipedia. I also work on developing **responsible AI workflows in the cultural and creative sectors**.
+I am interested in **using data to study cultural and social phenomena**, including the human past, the arts market, open science, and Wikipedia. I also work on developing **AI workflows in the cultural and creative sectors**.
 
 ## Recent news
-*Last update: March 2023.*
+*Last update: June 2023.*
 <!--
 * **News**: I will be visiting the [University of Bologna's Digital Humanities Advanced Research Centre](https://centri.unibo.it/dharc/en) during the first semester of the new academic year. See [here for more details](https://www.unibo.it/sitoweb/giovanni.colavizza).
 * **Article**: *[Local2Global: Scaling global representation learning on graphs
@@ -94,14 +94,8 @@ via local training](https://arxiv.org/abs/2107.12224)*, *KDD2021*, with Lucas Je
 
 * **Grants**: *WikipediaCitations: A FAIR dataset of Wikipedia’s citations to its sources* (NWO Open Science Fund). [Read the project showcase](https://www.nwo.nl/en/overview-pages/open-science-practice#wikipediacitations) or [watch the video interviews](https://www.youtube.com/watch?v=5givQvHAS4k&ab_channel=NWOWetenschap).
 * **New journal articles**: 
-  - *[Seller-buyer networks in NFT art are driven by preferential ties](https://www.frontiersin.org/articles/10.3389/fbloc.2022.1073499/full)*, Frontiers in Blockchain. 
   - *[Unsilencing colonial archives via automated entity recognition](https://www.emerald.com/insight/content/doi/10.1108/JD-02-2022-0038/full/html)*, Journal of Documentation (with Mrinalini Luthra, Konstantin Todorov, and Charles Jeurgens).
   - *[Local2Global: a distributed approach for scaling representation learning on graphs](https://link.springer.com/article/10.1007/s10994-022-06285-7)*, Machine Learning (with Lucas G. S. Jeub, Xiaowen Dong, Marya Bazzi, and Mihai Cucuringu).
-  - *[From Books to Knowledge Graphs](https://jdmdh.episciences.org/11062)*, Journal of Data Mining and Digital Humanities (with Natallia Kokash, Matteo Romanello, and Ernest Suyver).
-
-<!--
 * **New pre-prints**: 
-  - *[Polarization and reliability of news sources in Wikipedia](https://arxiv.org/abs/2210.16065)* (with Puyu Yang).
-  - *[Seller-buyer networks in NFT art are driven by preferential ties](https://arxiv.org/abs/2210.04339)*.
-  - *[Unsilencing Colonial Archives via Automated Entity Recognition](https://arxiv.org/abs/2210.02194)* (with Mrinalini Luthra, Konstantin Todorov, Charles Jeurgens).
--->
+  - *[Wikipedia and Open Access](https://arxiv.org/abs/2305.13945)* (with Puyu Yang, Ahad Shoaib, and Bob West).
+  - *[Partial Annotation Learning for Biomedical Entity Recognition](https://arxiv.org/abs/2305.13120)* (with Liangping Ding, and Zhixiong Zhang).
