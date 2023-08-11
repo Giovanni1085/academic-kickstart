@@ -91,18 +91,16 @@ I am interested in **using data to study cultural and social phenomena**, includ
 via local training](https://arxiv.org/abs/2107.12224)*, *KDD2021*, with Lucas Jeub, Xiaowen Dong, Marya Bazzi, and Mihai Cucuringu.
 * **Article**: *[Archives and AI: An Overview of Current Debates and Future Perspectives](https://arxiv.org/abs/2105.01117)*, *Journal on Computing and Cultural Heritage*, with Tobias Blanke, Charles Jeurgens, Julia Noordegraaf.
 -->
- 
-* **Grants**: 
-  - *HAICu: digital Humanities - Artificial Intelligence - Cultural heritage*, Research along Routes by Consortia (NWA-ORC), Dutch Research Agenda. [Read the project abstract](https://www.nwo.nl/en/researchprogrammes/dutch-research-agenda-nwa/research-along-routes-by-consortia-nwa-orc/nwa-orc-2018-2022/awards/2022).
-  - *Representation Learning on Graphs at Scale for Anomaly Detection, with Blockchains as a case study*, The Alan Turing Institute Defence & Security Programme. With Marya Bazzi, Mihai Cucuringu, Xiaowen Dong, and Lucas Jeub.
 <!--
 * **New journal articles**: 
   - *[Unsilencing colonial archives via automated entity recognition](https://www.emerald.com/insight/content/doi/10.1108/JD-02-2022-0038/full/html)*, Journal of Documentation (with Mrinalini Luthra, Konstantin Todorov, and Charles Jeurgens).
   - *[Local2Global: a distributed approach for scaling representation learning on graphs](https://link.springer.com/article/10.1007/s10994-022-06285-7)*, Machine Learning (with Lucas G. S. Jeub, Xiaowen Dong, Marya Bazzi, and Mihai Cucuringu).
 -->
-* **New pre-prints**: 
+* **Grants**: 
+  - *HAICu: digital Humanities - Artificial Intelligence - Cultural heritage*, Research along Routes by Consortia (NWA-ORC), Dutch Research Agenda. [Read the project abstract](https://www.nwo.nl/en/researchprogrammes/dutch-research-agenda-nwa/research-along-routes-by-consortia-nwa-orc/nwa-orc-2018-2022/awards/2022).
+  - *Representation Learning on Graphs at Scale for Anomaly Detection, with Blockchains as a case study*, The Alan Turing Institute Defence & Security Programme. With Marya Bazzi, Mihai Cucuringu, Xiaowen Dong, and Lucas Jeub.
+* **Pre-prints**: 
   - *[Wikipedia and Open Access](https://arxiv.org/abs/2305.13945)* (with Puyu Yang, Ahad Shoaib, and Bob West).
   - *[Partial Annotation Learning for Biomedical Entity Recognition](https://arxiv.org/abs/2305.13120)* (with Liangping Ding, and Zhixiong Zhang).
-
-* **New dataset**:
+* **Dataset**:
   - *A Comprehensive Dataset of Classified Citations with Identifiers from English Wikipedia (2023)* by Natallia Kokash. Here are the [dataset](https://zenodo.org/record/8107239) and [codebase](https://github.com/albatros13/wikicite), feedback welcome.
