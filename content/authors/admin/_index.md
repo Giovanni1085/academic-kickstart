@@ -94,7 +94,7 @@ via local training](https://arxiv.org/abs/2107.12224)*, *KDD2021*, with Lucas Je
  
 * **Grants**: 
   - *HAICu: digital Humanities - Artificial Intelligence - Cultural heritage*, Research along Routes by Consortia (NWA-ORC), Dutch Research Agenda. [Read the project abstract](https://www.nwo.nl/en/researchprogrammes/dutch-research-agenda-nwa/research-along-routes-by-consortia-nwa-orc/nwa-orc-2018-2022/awards/2022).
-  - *Representation Learning on Graphs at Scale for Anomaly Detection, with Blockchains as a case study*, The Alan Turing Institute – Defence & Security Programme. With Marya Bazzi, Mihai Cucuringu, Xiaowen Dong, and Lucas Jeub.
+  - *Representation Learning on Graphs at Scale for Anomaly Detection, with Blockchains as a case study*, The Alan Turing Institute Defence & Security Programme. With Marya Bazzi, Mihai Cucuringu, Xiaowen Dong, and Lucas Jeub.
 <!--
 * **New journal articles**: 
   - *[Unsilencing colonial archives via automated entity recognition](https://www.emerald.com/insight/content/doi/10.1108/JD-02-2022-0038/full/html)*, Journal of Documentation (with Mrinalini Luthra, Konstantin Todorov, and Charles Jeurgens).
@@ -103,5 +103,6 @@ via local training](https://arxiv.org/abs/2107.12224)*, *KDD2021*, with Lucas Je
 * **New pre-prints**: 
   - *[Wikipedia and Open Access](https://arxiv.org/abs/2305.13945)* (with Puyu Yang, Ahad Shoaib, and Bob West).
   - *[Partial Annotation Learning for Biomedical Entity Recognition](https://arxiv.org/abs/2305.13120)* (with Liangping Ding, and Zhixiong Zhang).
+
 * **New dataset**:
   - *A Comprehensive Dataset of Classified Citations with Identifiers from English Wikipedia (2023)* by Natallia Kokash. Here are the [dataset](https://zenodo.org/record/8107239) and [codebase](https://github.com/albatros13/wikicite), feedback welcome.
