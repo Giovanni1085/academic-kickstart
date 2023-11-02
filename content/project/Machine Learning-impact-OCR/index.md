@@ -1,7 +1,7 @@
 ---
 title: Evaluation of text quality
 summary: Assessing the impact of noise in texts that have been automatically extracted from historical documents.
-date: "2024-01-01T00:00:00Z"
+date: "2023-01-01T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?

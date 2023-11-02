@@ -1,7 +1,7 @@
 ---
 title: Wikipedia's sources
 summary: Wikipedia is the largest encyclopedia to date. What sources is it based on? How is it used by the public? How can it be improved?
-date: "2024-01-01T00:00:00Z"
+date: "2023-01-01T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
