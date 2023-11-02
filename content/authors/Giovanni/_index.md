@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Dr. Giovanni Colavizza
+name: Prof. Dr. Giovanni Colavizza
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant professor
+role: Associate professor
 
 # Organizations/Affiliations
 organizations:
-- name: University of Amsterdam
-  url: "https://www.uva.nl/en/profile/c/o/g.colavizza/g.colavizza.html"
+- name: University of Bologna
+- url: "https://www.unibo.it/sitoweb/giovanni.colavizza"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -48,7 +48,7 @@ bio: ""
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:g.colavizza@uva.nl  # For a direct email link, use "mailto:g.colavizza@uva.nl".
+  link: mailto:giovanni.colavizza@unibo.it  # For a direct email link, use "mailto:g.colavizza@uva.nl".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/giovanni1085
@@ -79,9 +79,9 @@ user_groups:
 - Team
 ---
 
-I did my PhD at [EPFL](https://www.epfl.ch/en) in Lausanne, working on methods for text mining and citation analysis of scholarly publications. During my PhD, I co-founded [Odoma](https://www.odoma.ch), a start-up offering customised machine learning solutions for the cultural heritage sector. 
+I am affiliated with the department of [Classical and Italian Philology](https://ficlit.unibo.it/it) at the University of Bologna, and with the Digital Humanities Advanced Research Centre (https://centri.unibo.it/dharc/en). I am also a visiting researcher at [The Alan Turing Institute](https://www.turing.ac.uk) and at the [Centre for Science and Technology Studies](https://www.cwts.nl) (CWTS, Leiden University).
 
-Prior to joining the University of Amsterdam, I have been part of the [Research Engineering Group](https://www.turing.ac.uk/research/research-engineering) at The Alan Turing Institute, also as a co-investigator on the [Living with Machines](http://livingwithmachines.ac.uk) project. Previously, I have been a researcher at Leiden University, the Leibniz Institute of European History in Mainz, the University of Oxford. My background is in computer science (BSc), history and information studies (BA, MA).
+I did my PhD at the [EPFL](https://www.epfl.ch/en) in Lausanne, working on methods for text mining and citation analysis of humanities scholarly publications. It is during my PhD that I co-founded [Odoma](https://www.odoma.ch) with my friend [Laurent Bolli](https://www.linkedin.com/in/laurentbolli/): we provide customised machine learning solutions for the cultural and creative sectors. 
 
-I am affiliated with the department of [Media Studies](https://www.uva.nl/en/discipline/media-studies/media-studies.html) at the University of Amsterdam, a member of [Creative Amsterdam](https://www.create.humanities.uva.nl) (CREATE) and the [Institute for Logic, Language and Computation](https://www.illc.uva.nl) (ILLC). I am a visiting researcher at [The Alan Turing Institute](https://www.turing.ac.uk) (UK) and at the [Centre for Science and Technology Studies](https://www.cwts.nl) (CWTS), Leiden University (NL); a visiting professor at the [University of Bologna's Digital Humanities Advanced Research Centre](https://centri.unibo.it/dharc/en) (IT).
+Prior to joining the University of Bologna, I have been part of the [Research Engineering Group](https://www.turing.ac.uk/research/research-engineering) at The Alan Turing Institute, and an assistant professor at the University of Amsterdam, [Institute for Logic, Language and Computation (ILLC)](https://www.illc.uva.nl/). My background is in computer science (BSc), history and information studies (BA, MA).
 

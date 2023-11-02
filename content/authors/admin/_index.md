@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor of Computer Science
+role: Associate Professor of Computer Science, University of Bologna
 
 # Organizations/Affiliations
 #organizations:
-name: University of Bologna
-#  url: "https://www.uva.nl/en/profile/c/o/g.colavizza/g.colavizza.html"
+#name: University of Bologna
+#url: "https://www.unibo.it/sitoweb/giovanni.colavizza"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -79,9 +79,11 @@ user_groups:
 - Principal Investigators
 ---
 
-I am an Associate Professor of Computer Science at the **[University of Bologna](https://centri.unibo.it/dharc/en)** and a co-founder at **[Odoma](https://www.odoma.ch)**.
+I am an Associate Professor of Computer Science at the **[University of Bologna](https://www.unibo.it/sitoweb/giovanni.colavizza)**.
 
-I primarily work on **Machine Learning applications in the Arts and Humanities**. I am also interested in **using data to study cultural and social phenomena**, including the human past, the arts market, open science, and Wikipedia.
+I am also the CTO and a co-founder at **[Odoma](https://www.odoma.ch)**.
+
+My primary focus is on **Machine Learning applications in the Arts and Humanities**. I am also interested in **using data to study cultural and social phenomena**, including the human past, the arts market, open science, and Wikipedia.
 
 ## Recent news
 *Last update: November 2023.*
