@@ -14,7 +14,7 @@ role: Associate Professor of Computer Science
 
 # Organizations/Affiliations
 #organizations:
-- name: University of Bologna
+name: University of Bologna
 #  url: "https://www.uva.nl/en/profile/c/o/g.colavizza/g.colavizza.html"
 
 # Short bio (displayed in user profile at end of posts)

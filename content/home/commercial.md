@@ -9,8 +9,8 @@ title = "Commercial"
 subtitle = ""
 +++
 
-I am a co-founder at **[Odoma](https://www.odoma.ch), an agency supporting the full lifecycle of Data + AI + UX projects in the cultural and creative sectors**. 
+I am the CTO and co-founder at **[Odoma](https://www.odoma.ch), an agency supporting the full lifecycle of Data + AI + UX projects in the cultural and creative sectors**. 
 
 We are specialized in data collection, quality assessment and documentation, in the design and development of customized AI solutions and digital interfaces.
 
-We also provide **expert consulting and training** on topics related to *data quality and documentation*, *AI workflows in cultural organisations and creative industries*, *digitisation of cultural heritage collections*. If interested, please get in touch at <giovanni.colavizza@odoma.ch>.
+We also provide **expert consulting and training** on topics related to *data quality and documentation*, *AI workflows in cultural organisations and creative industries*, *digitisation of cultural heritage collections*. If interested, please get in touch at <contact@odoma.ch>.
