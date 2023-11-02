@@ -8,7 +8,7 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 
-tags: ["DS"] # CAH, AICH, SS, *
+tags: ["Data Science"] # CAH, AICH, SS, *
 
 # Optional header image (relative to `static/img/` folder).
 image:
