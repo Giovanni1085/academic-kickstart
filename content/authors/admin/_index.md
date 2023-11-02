@@ -86,7 +86,6 @@ I am also the CTO and a co-founder at **[Odoma](https://www.odoma.ch)**.
 My primary focus is on **Machine Learning applications in the Arts and Humanities**. I am also interested in **using data to study cultural and social phenomena**, including the human past, the arts market, open science, and Wikipedia.
 
 ## Recent news
-*Last update: November 2023.*
 <!--
 * **News**: I will be visiting the [University of Bologna's Digital Humanities Advanced Research Centre](https://centri.unibo.it/dharc/en) during the first semester of the new academic year. See [here for more details](https://www.unibo.it/sitoweb/giovanni.colavizza).
 * **Article**: *[Local2Global: Scaling global representation learning on graphs
@@ -102,6 +101,8 @@ via local training](https://arxiv.org/abs/2107.12224)*, *KDD2021*, with Lucas Je
   - *HAICu: digital Humanities - Artificial Intelligence - Cultural heritage*, Research along Routes by Consortia (NWA-ORC), Dutch Research Agenda. [Read the project abstract](https://www.nwo.nl/en/researchprogrammes/dutch-research-agenda-nwa/research-along-routes-by-consortia-nwa-orc/nwa-orc-2018-2022/awards/2022).
   - *Representation Learning on Graphs at Scale for Anomaly Detection, with Blockchains as a case study*, The Alan Turing Institute Defence & Security Programme. With Marya Bazzi, Mihai Cucuringu, Xiaowen Dong, and Lucas Jeub.
 * **Dataset**:
-  - *A Comprehensive Dataset of Classified Citations with Identifiers from English Wikipedia (2023)* by Natallia Kokash. Here are the [dataset](https://zenodo.org/record/8107239) and [codebase](https://github.com/albatros13/wikicite), feedback welcome.
+  - *A Comprehensive Dataset of Classified Citations with Identifiers from English Wikipedia (2023)* with Natallia Kokash. Here are the [dataset](https://zenodo.org/record/8107239) and [codebase](https://github.com/albatros13/wikicite), feedback welcome.
 * **Article**: 
   - *[Datasheets for Digital Cultural Heritage Datasets](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.124)* (with Henk Alkemade, Steven Claeyssens, Nuno Freire, Jörg Lehmann, Clemens Neudecker, Giulia Osti, Daniel van Strien).
+
+*Last update: November 2023.*

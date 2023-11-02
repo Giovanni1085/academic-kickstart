@@ -1,14 +1,14 @@
 ---
-title: Wikipedia and the public understanding of science
+title: Wikipedia's sources
 summary: Wikipedia is the largest encyclopedia to date. What sources is it based on? How is it used by the public? How can it be improved?
-date: "2022-01-01T00:00:00Z"
+date: "2024-01-01T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 
-tags: ["Metascience"] # CAH, AICH, SS, *
+tags: ["DS"] # CAH, AICH, SS, *
 
 # Optional header image (relative to `static/img/` folder).
 image:
