@@ -1,6 +1,6 @@
 ---
 title: Data-driven humanities research
-summary: Interdisciplinary collaborations with humanists using observational statistical methods.
+summary: Using quantitative methods in humanities research.
 date: "2023-01-01T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
@@ -15,4 +15,4 @@ image:
   preview_only: true
 ---
 
-This line of research focuses on a variety of topics whereby the data science toolkit is put at the service of a humanities research question. Examples of recent topics include historical epidemics, apprenticeship and knowledge tramsmission, migratory patterns in early modern Venice.
+This line of research focuses on a variety of topics whereby the data science toolkit is put at the service of a humanities research question. Examples of recent topics include historical epidemics, apprenticeship and knowledge tramsmission, migratory patterns in early modern Venice. I am happy to collaborate on a variety of new topics: please reach out if interested.

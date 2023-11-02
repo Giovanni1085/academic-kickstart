@@ -1,6 +1,6 @@
 ---
-title: Information extraction from GLAM collections
-summary: Using machine learning to automate the extraction of information from historical documents.
+title: Information extraction from historical collections
+summary: Developing machine learning applications for the automatic extraction of information from historical collections.
 date: "2023-01-01T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?

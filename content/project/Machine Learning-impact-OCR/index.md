@@ -1,6 +1,6 @@
 ---
-title: Evaluation of text quality
-summary: Assessing the impact of noise in texts that have been automatically extracted from historical documents.
+title: Studying the impact of data noise in historical collections
+summary: Assessing how noise in digiized historical collections and information extracted from them can impact downstream tasks and applications.
 date: "2023-01-01T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?

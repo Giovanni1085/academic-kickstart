@@ -1,5 +1,5 @@
 ---
-title: Wikipedia's sources
+title: Science beyond academia, Wikipedia and more
 summary: Wikipedia is the largest encyclopedia to date. What sources is it based on? How is it used by the public? How can it be improved?
 date: "2023-01-01T00:00:00Z"
 
