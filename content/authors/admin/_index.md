@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor of Media Engineering
+role: Associate Professor of Computer Science
 
 # Organizations/Affiliations
 #organizations:
-#- name: University of Amsterdam
+- name: University of Bologna
 #  url: "https://www.uva.nl/en/profile/c/o/g.colavizza/g.colavizza.html"
 
 # Short bio (displayed in user profile at end of posts)
@@ -48,7 +48,7 @@ bio: ""
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:giovanni.colavizza@heig-vd.ch  # For a direct email link, use "mailto:g.colavizza@uva.nl".
+  link: mailto:giovanni.colavizza@unibo.it  # For a direct email link, use "mailto:g.colavizza@uva.nl".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/giovanni1085
@@ -79,12 +79,12 @@ user_groups:
 - Principal Investigators
 ---
 
-I am currently an associate professor of media engineering at the Haute Ecole d'Ingénierie et de Gestion du Canton de Vaud - **[HEIG‑VD](https://heig-vd.ch/)** (CH) and a co-founder at **[Odoma](https://www.odoma.ch)** (CH).
+I am an Associate Professor of Computer Science at the **[University of Bologna](https://centri.unibo.it/dharc/en)** and a co-founder at **[Odoma](https://www.odoma.ch)**.
 
-I am interested in **using data to study cultural and social phenomena**, including the human past, the arts market, open science, and Wikipedia. I also work on developing **AI workflows in the cultural and creative sectors**.
+I primarily work on **Machine Learning applications in the Arts and Humanities**. I am also interested in **using data to study cultural and social phenomena**, including the human past, the arts market, open science, and Wikipedia.
 
 ## Recent news
-*Last update: August 2023.*
+*Last update: November 2023.*
 <!--
 * **News**: I will be visiting the [University of Bologna's Digital Humanities Advanced Research Centre](https://centri.unibo.it/dharc/en) during the first semester of the new academic year. See [here for more details](https://www.unibo.it/sitoweb/giovanni.colavizza).
 * **Article**: *[Local2Global: Scaling global representation learning on graphs
@@ -99,8 +99,7 @@ via local training](https://arxiv.org/abs/2107.12224)*, *KDD2021*, with Lucas Je
 * **Grants**: 
   - *HAICu: digital Humanities - Artificial Intelligence - Cultural heritage*, Research along Routes by Consortia (NWA-ORC), Dutch Research Agenda. [Read the project abstract](https://www.nwo.nl/en/researchprogrammes/dutch-research-agenda-nwa/research-along-routes-by-consortia-nwa-orc/nwa-orc-2018-2022/awards/2022).
   - *Representation Learning on Graphs at Scale for Anomaly Detection, with Blockchains as a case study*, The Alan Turing Institute Defence & Security Programme. With Marya Bazzi, Mihai Cucuringu, Xiaowen Dong, and Lucas Jeub.
-* **Pre-prints**: 
-  - *[Wikipedia and Open Access](https://arxiv.org/abs/2305.13945)* (with Puyu Yang, Ahad Shoaib, and Bob West).
-  - *[Partial Annotation Learning for Biomedical Entity Recognition](https://arxiv.org/abs/2305.13120)* (with Liangping Ding, and Zhixiong Zhang).
 * **Dataset**:
   - *A Comprehensive Dataset of Classified Citations with Identifiers from English Wikipedia (2023)* by Natallia Kokash. Here are the [dataset](https://zenodo.org/record/8107239) and [codebase](https://github.com/albatros13/wikicite), feedback welcome.
+* **Article**: 
+  - *[Datasheets for Digital Cultural Heritage Datasets](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.124)* (with Henk Alkemade, Steven Claeyssens, Nuno Freire, Jörg Lehmann, Clemens Neudecker, Giulia Osti, Daniel van Strien).

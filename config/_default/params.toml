@@ -81,7 +81,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "g.colavizza@uva.nl"
+email = "giovanni.colavizza@unibo.it"
 phone = ""
 
 # Address
@@ -90,7 +90,7 @@ phone = ""
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "52.3667", longitude = "4.8945"}
+#coordinates = {latitude = "52.3667", longitude = "4.8945"}
 
 # Directions for visitors to locate you.
 directions = ""

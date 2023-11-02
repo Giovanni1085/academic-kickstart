@@ -13,10 +13,10 @@
 #  url = "#bio"
 #  weight = 10
 
-[[main]]
-  name = "Team"
-  url = "#team"
-  weight = 10
+#[[main]]
+#  name = "Team"
+#  url = "#team"
+#  weight = 10
 
 #[[main]]
 #  name = "Research"
