@@ -99,10 +99,10 @@ via local training](https://arxiv.org/abs/2107.12224)*, *KDD2021*, with Lucas Je
 -->
 * **Grants**: 
   - *HAICu: digital Humanities - Artificial Intelligence - Cultural heritage*, Research along Routes by Consortia (NWA-ORC), Dutch Research Agenda. [Read the project abstract](https://www.nwo.nl/en/researchprogrammes/dutch-research-agenda-nwa/research-along-routes-by-consortia-nwa-orc/nwa-orc-2018-2022/awards/2022).
-  - *Representation Learning on Graphs at Scale for Anomaly Detection, with Blockchains as a case study*, The Alan Turing Institute Defence & Security Programme. With Marya Bazzi, Mihai Cucuringu, Xiaowen Dong, and Lucas Jeub.
-* **Dataset**:
+* **Datasets**:
   - *A Comprehensive Dataset of Classified Citations with Identifiers from English Wikipedia (2023)* with Natallia Kokash. Here are the [dataset](https://zenodo.org/record/8107239) and [codebase](https://github.com/albatros13/wikicite), feedback welcome.
-* **Article**: 
+* **Articles**: 
   - *[Datasheets for Digital Cultural Heritage Datasets](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.124)* (with Henk Alkemade, Steven Claeyssens, Nuno Freire, Jörg Lehmann, Clemens Neudecker, Giulia Osti, Daniel van Strien).
+  - *[Polarization and reliability of news sources in Wikipedia](https://www.emerald.com/insight/content/doi/10.1108/OIR-02-2023-0084)* (with Puyu Yang).
 
-*Last update: November 2023.*
+*Last update: February 2024.*

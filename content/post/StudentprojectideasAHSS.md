@@ -1,7 +1,7 @@
 ---
 title: Student project ideas (arts, humanities and social sciences)
 summary: A list of project ideas for students in the arts, humanities and social sciences.
-date: "2022-09-04T00:00:01Z"
+date: "2024-01-27T00:00:01Z"
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -16,17 +16,17 @@ header:
   image: ""
 ---
 
-If you are enrolled in a degree at the University of Amsterdam, the Amsterdam University College, or the University of Bologna, and you would like to do a project/thesis/capstone with me, these are a few topics I or members of my team are interested into. 
+If you are enrolled in a degree at the University of Bologna, and you would like to do a project/thesis/capstone with me, these are a few topics I or members of my team are interested into. 
 
-If you like one of them, or you would like to propose something else, get in touch: <g.colavizza@uva.nl> (please include program, year and grades). 
+If you like one of them, or you would like to propose something else, get in touch: <giovanni.colavizza@unibo.it> (please include program, year and grades). 
 
 ## Monitoring the use of digital heritage collections
 
 Most if not all heritage organizations have digitized part of their collections and made them available online. Examples of services include the [National Library Delpher](https://www.delpher.nl) and the [Rijksmuseum data portal](https://www.rijksmuseum.nl/en/data). How are users using these services? Can they be improved in any way?
 
-## Monitoring the adoption of AI in heritage organizations
+## Understanding the adoption of AI and LLMs in heritage organizations
 
-AI technology (machine learning) has widely been adopted by heritage organizations to facilitate the extraction of information (e.g., of texts from images), the enrichment of collection and their use (e.g., to augment search). What is the current state of adoption of AI in Dutch heritage organizations?
+AI technology (machine learning) and Large Language Models (LLMs) have been widely adopted by heritage organizations to facilitate the extraction of information (e.g., of texts from images), the enrichment of collection and their use (e.g., to augment search). What is the current state of adoption of AI in Dutch heritage organizations?
 
 ## NFT art
 
