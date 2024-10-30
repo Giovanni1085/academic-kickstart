@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor, University of Copenhagen
+role: Professor, University of Copenhagen and University of Bologna
 
 # Organizations/Affiliations
 #organizations:
@@ -83,7 +83,7 @@ I am Professor of Computer Science at the **[University of Copenhagen](https://r
 
 I am also the CEO of **[Mithril Minds](https://www.mithrilminds.ai)**, and the CTO of **[Odoma](https://www.odoma.ch)**.
 
-My primary focus is on researching and developing **Artificial Intelligence (AI) applications in the Arts and Humanities**.
+My work focuses on researching and developing **Artificial Intelligence (AI) applications in the Arts and Humanities**. I am also specialised in research engineering and quantitative methods in Humanities and Social Science research.
 
 ## Recent news
 <!--
