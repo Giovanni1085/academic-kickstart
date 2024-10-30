@@ -10,10 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate professor
+role: Professor
 
 # Organizations/Affiliations
 organizations:
+- name: University of Copenhagen
+- url: "https://researchprofiles.ku.dk/en/persons/giovanni-colavizza"
 - name: University of Bologna
 - url: "https://www.unibo.it/sitoweb/giovanni.colavizza"
 
@@ -48,7 +50,7 @@ bio: ""
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:giovanni.colavizza@unibo.it  # For a direct email link, use "mailto:g.colavizza@uva.nl".
+  link: mailto:colavizza@hum.ku.dk  # For a direct email link, use "mailto:g.colavizza@uva.nl".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/giovanni1085
@@ -79,9 +81,9 @@ user_groups:
 - Team
 ---
 
-I am affiliated with the department of [Classical and Italian Philology](https://ficlit.unibo.it/it) at the University of Bologna, and with the Digital Humanities Advanced Research Centre (https://centri.unibo.it/dharc/en). I am also a visiting researcher at [The Alan Turing Institute](https://www.turing.ac.uk) and at the [Centre for Science and Technology Studies](https://www.cwts.nl) (CWTS, Leiden University).
+I am a Professor at the [Department of Communication](https://comm.ku.dk/), in the Faculty of Humanities, University of Copenhagen. In Bologna, I am affiliated with the [Department of Classical and Italian Philology](https://ficlit.unibo.it/it), and the [Digital Humanities Advanced Research Centre](https://centri.unibo.it/dharc/en).
 
-I did my PhD at the [EPFL](https://www.epfl.ch/en) in Lausanne, working on methods for text mining and citation analysis of humanities scholarly publications. It is during my PhD that I co-founded [Odoma](https://www.odoma.ch) with my friend [Laurent Bolli](https://www.linkedin.com/in/laurentbolli/): we provide customised machine learning solutions for the cultural and creative sectors. 
+I did my PhD at the [EPFL](https://www.epfl.ch/en) in Lausanne, working on methods for text mining and citation analysis of humanities scholarly publications. It is during my PhD that I co-founded [Odoma](https://www.odoma.ch) with my friend [Laurent Bolli](https://www.linkedin.com/in/laurentbolli/): we provide customised AI solutions for the cultural and creative sectors. More recently, I started [Mithril Minds](https://www.mithrilminds.ai), where we focus on generative AI solutions for legal compliance and administrative processes.
 
 Prior to joining the University of Bologna, I have been part of the [Research Engineering Group](https://www.turing.ac.uk/research/research-engineering) at The Alan Turing Institute, and an assistant professor at the University of Amsterdam, [Institute for Logic, Language and Computation (ILLC)](https://www.illc.uva.nl/). My background is in computer science (BSc), history and information studies (BA, MA).
 

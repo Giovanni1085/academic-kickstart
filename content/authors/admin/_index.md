@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor of Computer Science, University of Bologna
+role: Professor, University of Copenhagen
 
 # Organizations/Affiliations
 #organizations:
@@ -48,7 +48,7 @@ bio: ""
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:giovanni.colavizza@unibo.it  # For a direct email link, use "mailto:g.colavizza@uva.nl".
+  link: mailto:colavizza@hum.ku.dk  # For a direct email link, use "mailto:g.colavizza@uva.nl".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/giovanni1085
@@ -79,11 +79,11 @@ user_groups:
 - Principal Investigators
 ---
 
-I am an Associate Professor of Computer Science at the **[University of Bologna](https://www.unibo.it/sitoweb/giovanni.colavizza)**.
+I am Professor of Computer Science at the **[University of Copenhagen](https://researchprofiles.ku.dk/en/persons/giovanni-colavizza)**, and Associate Professor of Computer Science at the **[University of Bologna](https://www.unibo.it/sitoweb/giovanni.colavizza)**.
 
-I am also the CTO and a co-founder at **[Odoma](https://www.odoma.ch)**.
+I am also the CEO of **[Mithril Minds](https://www.mithrilminds.ai)**, and the CTO of **[Odoma](https://www.odoma.ch)**.
 
-My primary focus is on **Machine Learning applications in the Arts and Humanities**. I am also interested in **using data to study cultural and social phenomena**, including the human past, the arts market, open science, and Wikipedia.
+My primary focus is on researching and developing **Artificial Intelligence (AI) applications in the Arts and Humanities**.
 
 ## Recent news
 <!--
@@ -96,13 +96,15 @@ via local training](https://arxiv.org/abs/2107.12224)*, *KDD2021*, with Lucas Je
 * **New journal articles**: 
   - *[Unsilencing colonial archives via automated entity recognition](https://www.emerald.com/insight/content/doi/10.1108/JD-02-2022-0038/full/html)*, Journal of Documentation (with Mrinalini Luthra, Konstantin Todorov, and Charles Jeurgens).
   - *[Local2Global: a distributed approach for scaling representation learning on graphs](https://link.springer.com/article/10.1007/s10994-022-06285-7)*, Machine Learning (with Lucas G. S. Jeub, Xiaowen Dong, Marya Bazzi, and Mihai Cucuringu).
--->
+
 * **Grants**: 
   - *HAICu: digital Humanities - Artificial Intelligence - Cultural heritage*, Research along Routes by Consortia (NWA-ORC), Dutch Research Agenda. [Read the project abstract](https://www.nwo.nl/en/researchprogrammes/dutch-research-agenda-nwa/research-along-routes-by-consortia-nwa-orc/nwa-orc-2018-2022/awards/2022).
 * **Datasets**:
   - *A Comprehensive Dataset of Classified Citations with Identifiers from English Wikipedia (2023)* with Natallia Kokash. Here are the [dataset](https://zenodo.org/record/8107239) and [codebase](https://github.com/albatros13/wikicite), feedback welcome.
-* **Articles**: 
-  - *[Datasheets for Digital Cultural Heritage Datasets](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.124)* (with Henk Alkemade, Steven Claeyssens, Nuno Freire, Jörg Lehmann, Clemens Neudecker, Giulia Osti, Daniel van Strien).
-  - *[Polarization and reliability of news sources in Wikipedia](https://www.emerald.com/insight/content/doi/10.1108/OIR-02-2023-0084)* (with Puyu Yang).
+-->
+* **Articles**:
+  - *[Open access improves the dissemination of science: Insights from Wikipedia](https://link.springer.com/article/10.1007/s11192-024-05163-4)* (with Puyu Yang, Ahad Shoaib, Bob West). 
+  - *[Partial Annotation Learning for Biomedical Entity Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10689310)* (with Liangping Ding, Zhixiong Zhang).
+  - *[An analysis of the effects of sharing research data, code, and preprints on citations](https://arxiv.org/abs/2404.16171)* (with Lauren Cadwallader, Marcel LaFlamme, Grégory Dozot, Stéphane Lecorney, Daniel Rappo, Iain Hrynaszkiewicz).
 
-*Last update: February 2024.*
+*Last update: November 2024.*

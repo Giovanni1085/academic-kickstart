@@ -9,8 +9,6 @@ title = "Commercial"
 subtitle = ""
 +++
 
-I am the CTO and co-founder at **[Odoma](https://www.odoma.ch), an agency supporting the full lifecycle of Data + AI + UX projects in the cultural and creative sectors**. 
+I am the CEO and co-founder at **[Mithril Minds](https://www.mithrilminds.ai)**, a spin-off of the University of Bologna developing **Generative AI solutions for legal compliance and administrative processes**. If interested, please get in touch at <info@mithrilminds.ai>.
 
-We are specialized in data collection, quality assessment and documentation, in the design and development of customized AI solutions and digital interfaces.
-
-We also provide **expert consulting and training** on topics related to *data quality and documentation*, *AI workflows in cultural organisations and creative industries*, *digitisation of cultural heritage collections*. If interested, please get in touch at <contact@odoma.ch>.
+I am also the CTO and co-founder at **[Odoma](https://www.odoma.ch), an agency supporting the full lifecycle of Data + AI + UX projects in the cultural and creative sectors**. We are specialized in data collection, quality assessment and documentation, in the design and development of customized AI solutions and digital interfaces. If interested, please get in touch at <contact@odoma.ch>.
