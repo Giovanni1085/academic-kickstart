@@ -102,9 +102,9 @@ via local training](https://arxiv.org/abs/2107.12224)*, *KDD2021*, with Lucas Je
 * **Datasets**:
   - *A Comprehensive Dataset of Classified Citations with Identifiers from English Wikipedia (2023)* with Natallia Kokash. Here are the [dataset](https://zenodo.org/record/8107239) and [codebase](https://github.com/albatros13/wikicite), feedback welcome.
 -->
-* **Articles**:
-  - *[Open access improves the dissemination of science: Insights from Wikipedia](https://link.springer.com/article/10.1007/s11192-024-05163-4)* (with Puyu Yang, Ahad Shoaib, Bob West). 
-  - *[Partial Annotation Learning for Biomedical Entity Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10689310)* (with Liangping Ding, Zhixiong Zhang).
-  - *[An analysis of the effects of sharing research data, code, and preprints on citations](https://arxiv.org/abs/2404.16171)* (with Lauren Cadwallader, Marcel LaFlamme, Grégory Dozot, Stéphane Lecorney, Daniel Rappo, Iain Hrynaszkiewicz).
+* **New pre-prints**:
+  - *[Benchmarking Large Language Models for Handwritten Text Recognition](https://arxiv.org/abs/2503.15195)* (with Giorgia Crosilla and Lukas Klic). 
+  - *[Research Data in Scientific Publications: A Cross-Field Analysis](https://arxiv.org/abs/2502.01407)* (with Puyu Yang).
+  - *[Recent Developments in Deep Learning-based Author Name Disambiguation](https://ceur-ws.org/Vol-3937/paper9.pdf)* (with Francesca Cappelli and Silvio Peroni).
 
-*Last update: November 2024.*
+*Last update: April 2025.*
