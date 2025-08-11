@@ -79,9 +79,7 @@ user_groups:
 - Principal Investigators
 ---
 
-I am Professor of Computer Science at the **[University of Copenhagen](https://researchprofiles.ku.dk/en/persons/giovanni-colavizza)**, and Associate Professor of Computer Science at the **[University of Bologna](https://www.unibo.it/sitoweb/giovanni.colavizza)**.
-
-I am also the CEO of **[Mithril Minds](https://www.mithrilminds.ai)**, and the CTO of **[Odoma](https://www.odoma.ch)**.
+I am Professor of Computer Science at the **[University of Copenhagen](https://researchprofiles.ku.dk/en/persons/giovanni-colavizza)**, and Associate Professor of Computer Science at the **[University of Bologna](https://www.unibo.it/sitoweb/giovanni.colavizza)**. I am also the CTO at **[Odoma](https://www.odoma.ch)**.
 
 My work focuses on researching and developing **Artificial Intelligence (AI) applications in the Arts and Humanities**. I am also specialised in research engineering and quantitative methods in Humanities and Social Science research.
 
@@ -102,9 +100,11 @@ via local training](https://arxiv.org/abs/2107.12224)*, *KDD2021*, with Lucas Je
 * **Datasets**:
   - *A Comprehensive Dataset of Classified Citations with Identifiers from English Wikipedia (2023)* with Natallia Kokash. Here are the [dataset](https://zenodo.org/record/8107239) and [codebase](https://github.com/albatros13/wikicite), feedback welcome.
 -->
+* **New events**: We launched the [Centre for Digital and Computational Humanities](https://cdch.ku.dk/) at the University of Copenhagen.
+
 * **New pre-prints**:
   - *[Benchmarking Large Language Models for Handwritten Text Recognition](https://arxiv.org/abs/2503.15195)* (with Giorgia Crosilla and Lukas Klic). 
   - *[Research Data in Scientific Publications: A Cross-Field Analysis](https://arxiv.org/abs/2502.01407)* (with Puyu Yang).
   - *[Recent Developments in Deep Learning-based Author Name Disambiguation](https://ceur-ws.org/Vol-3937/paper9.pdf)* (with Francesca Cappelli and Silvio Peroni).
 
-*Last update: April 2025.*
+*Last update: August 2025.*
