@@ -79,7 +79,7 @@ user_groups:
 - Principal Investigators
 ---
 
-I am Professor of Computer Science at the **[University of Copenhagen](https://researchprofiles.ku.dk/en/persons/giovanni-colavizza)**, and Associate Professor of Computer Science at the **[University of Bologna](https://www.unibo.it/sitoweb/giovanni.colavizza)**. I am also the CTO at **[Odoma](https://www.odoma.ch)**.
+I am Professor of Digital and Computational Humanities at the **[University of Copenhagen](https://researchprofiles.ku.dk/en/persons/giovanni-colavizza)**, and Associate Professor of Computer Science at the **[University of Bologna](https://www.unibo.it/sitoweb/giovanni.colavizza)**. I am also the CTO at **[Odoma](https://www.odoma.ch)**.
 
 My work focuses on researching and developing **Artificial Intelligence (AI) applications in the Arts and Humanities**. I am also specialised in research engineering and quantitative methods in Humanities and Social Science research.
 
@@ -103,8 +103,8 @@ via local training](https://arxiv.org/abs/2107.12224)*, *KDD2021*, with Lucas Je
 * **New events**: We launched the [Centre for Digital and Computational Humanities](https://cdch.ku.dk/) at the University of Copenhagen.
 
 * **New pre-prints**:
-  - *[Benchmarking Large Language Models for Handwritten Text Recognition](https://arxiv.org/abs/2503.15195)* (with Giorgia Crosilla and Lukas Klic). 
-  - *[Research Data in Scientific Publications: A Cross-Field Analysis](https://arxiv.org/abs/2502.01407)* (with Puyu Yang).
-  - *[Recent Developments in Deep Learning-based Author Name Disambiguation](https://ceur-ws.org/Vol-3937/paper9.pdf)* (with Francesca Cappelli and Silvio Peroni).
+  - *[Benchmarking Vision-Language and Multimodal Large Language Models in Zero-shot and Few-shot Scenarios: A Study on Christian Iconography](https://arxiv.org/abs/2509.18839)* (with Gianmarco Spinaci and Lukas Klic). 
+  - *[An analysis of the effects of open science indicators on citations in the French Open Science Monitor](https://arxiv.org/abs/2508.20747)* (with Lauren Cadwallader and Iain Hrynaszkiewicz).
+  - *[Named Entity Recognition of Historical Text via Large Language Models](https://arxiv.org/abs/2508.18090)* (with Shibingfeng Zhang).
 
-*Last update: August 2025.*
+*Last update: October 2025.*
